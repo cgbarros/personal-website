@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Caio Barros</title>
+    <link>/en/posts/</link>
+    <description>Recent content in Posts on Caio Barros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Feb 2024 18:18:00 +0000</lastBuildDate>
+    <atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soviet Music in 2024, a topic wiht rising interest?</title>
+      <link>/en/posts/soviet-music-in-2024/</link>
+      <pubDate>Tue, 13 Feb 2024 18:18:00 +0000</pubDate>
+      <guid>/en/posts/soviet-music-in-2024/</guid>
+      <description>The theme over the years lorem ipsum</description>
+    </item>
+  </channel>
+</rss>

@@ -1,4 +1,28 @@
 baseURL = '/'
-languageCode = 'en-us'
 title = 'Caio Barros'
 theme = "PaperMod"
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+	[languages.en]
+		contentDir = 'content/en'
+		disabled = false
+		languageCode = 'en'
+		languageDirection = 'ltr'
+		languageName = 'English'
+		title = 'Caio Barros'
+		weight = 1
+		[languages.en.params]
+			subtitle = 'Music, Comunism, Technology, some Fun'
+	[languages.pt-br]
+		contentDir = 'content/pt-br'
+		disabled = false
+		languageCode = 'pt-BR'
+		languageDirection = 'ltr'
+		languageName = 'Portuguese'
+		title = 'Caio Barros'
+		weight = 2
+		[languages.pt-br.params]
+			subtitle = 'Música, Comunismo, Tecnologia, algumas Bobagens'
+[params]
+	dateFormat = '2006-01-02'
