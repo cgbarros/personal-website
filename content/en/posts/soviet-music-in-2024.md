@@ -5,4 +5,66 @@ draft: true
 tags: ["music", "communism", "soviet music", "data analysis"]
 ---
 
-# The 
+- After the fall of the USSR, its themes became obsolete in the west?
+- Themes like socialist realism - the soviet art style (?)
+- What about soviet music?
+- The opening of soviet archives [when?] brought new evidence to soviet music
+- More books seem to be published
+	- habokian
+  - aquele que está comigo
+  - o dos sindicatos
+  - frolova-walker
+  - fairclough
+  - biografias
+  	- prokofiev?
+    - shostakovich?
+- Google's ngram -> the increase. We will come back to it.
+- Why is this important?
+	- discussion on soviet-era music is contaminated with anti-comunist propaganda. Afer the soviet union, seems like no propaganda is needed anymore. If there is no more content, then there is not much to say.
+  - Assuming there is more content, though, what is the quality of it? is it more anti-comunist propaganda? Did it change somehow?
+  - If it's more anti-comunist propaganda, then why is it coming back, since the soviet union is no more? Do the dominant classes feel afraid again and need to put out the propaganda wepon again?
+  - If it's not that, than what is changing? Is the bourgeois ideology changing? Is it getting weaker? Is there any objective research being done? Is it limited by its own ideology? How?
+- dimensions.ai
+	- what is
+  - articles only
+  - therms, filters, etc.
+  - results (raw)
+  - plotting
+  - clear increse
+  - example of some results
+  - are they significant? what type of research we see?
+- jstor
+	- what is
+  - articles and books
+  - the website to get the data
+  - unfortunately no further filters (paid), but I don't think this will make a difference
+  - plotting
+  - also clear increase
+  - examples
+  - types of research, books etc
+	  - I think there are books missing (check)
+- Google ngram
+	- for now looks like books are the main source of soviet music history publications. At least on a more general sense
+  - Furthermore, some articles are mainly discussions, not about new evidence. Alghough some important (fariclough)
+	- google ngram is from google books, i. e., books only
+	- as mentioned in the begining, seems like there is a clear pattern:
+    - increase up to the 50s (beginning to the end of the Stalin era)
+    - decrease and stabilization from the 60s to the 80s (Post-Stalin USSR)
+    - decrease again in the 90s (post USSR fall)
+    - increase (?) in the 2000s
+	- if this is true, we should see different averages in each period
+	- and, surely enough, we see it [table]
+	- but having distinct averages isn't enough. They need to be statistically significant
+	- anova
+    - what is variance. examples of same average, but different variance.
+    - example of a case when distinct averages are not statistically significant because of variance
+    - f test - what it means: what is the probability that the change in average was random?
+	- f test of each period (based on the previous period) [table]
+- What does all that mean?
+	- we can't say yet that there is a post-2000 increase in interest (or in publications of books) in soviet music
+  - That seems to contradict the appearance of more books recently (examples)
+	  - the data from google books goes up to 2019. There were other books published after that (examples). So it could be that the increase was post-2020
+  - it could be also that the publications are migrating from books to articles
+		- is the content also changing? [check articles to see]
+  - I'll also publish at some point an analysis of content of many important books on the subject.
+- link to github repo with the data + plot
