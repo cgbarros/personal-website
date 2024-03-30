@@ -7,13 +7,15 @@ tags: ["music", "communism", "soviet music", "data analysis"]
 
 When I was preparing my phd analysing books on soviet music history, it was important to know if this subject was still relevant in musicology punlications. Of course as a theme it will never be exhausted, but if it is considered obsolet and there is jo debate, there is no point in polemicizing.
 
-Besides knowing some books and searching for publications online, The first point of data that I came across was [Google's Ngram Viewer](https://books.google.com/ngrams/). I won't go into detail on what an n-gram is and what the viewer's numbers mean, but, basically, this tool will show you the frequency of a keyword in a subset of Google Books texts through time.
+Besides knowing some books and searching for publications online, The first point of data that I came across was [Google's Ngram Viewer](https://books.google.com/ngrams/). I won't go into detail on what an n-gram is and what the viewer's numbers mean, but, basically, this tool will show you the frequency of a keyword in a subset of Google Books texts through time..
 
-In Ngram Viewer, each subset is called a _corpus_, If we search for 'soviet music' in the english-language
+In Ngram Viewer, each subset is called a _corpus_ and each _corpus_ corresponds to a language and the date when it was created. If we search for 'soviet music' in the english-language _corpus_ from 2019 (the most recent one, as of this writing), we get the following chart:
 
-We can expect tjat the scientific interest kn Soviet music would be diminishing after the fall of the doviet union. The crisis of the communist movement, from Krushschev's speech in the 20th congress of the cpsu[fn], made worse after the final transition to capitalism, seem to have put an end in the dispute between east and west and virtually all fields, including art.
+[Google Ngram Chart](soviet-music-in-2024/ngram.svg)
 
-Concepts like socialist realism should now have very few, if any, defenders. And ideologies that consider this aesthetic concept empty of meaning (both theoretical and practical) are probably taken as a matter of course.
+The chart shows more or less what we would expect: the term starts to rise on the 1930s, reach its peak on 1950s (the actual peak in on 1953 -- the year of Stalin's death), then it goes down drastically and remains more or less stable between the 1960s and 1990s when, after the end of the Soviet Union, it goes down again and seems to remain stable until 2019.
+
+This is in line with common sense. We can expect that the scientific interest in soviet music would diminish after Krushschev's speech in the 20th congress of the cpsu[fn] and made worse after the USSR final transition to capitalism. Concepts like socialist realism should now have very few, if any, defenders. And ideologies that consider this aesthetic concept empty of meaning (both theoretical and practical) are probably taken as a matter of course.
 
 But is that really so? what is the current state of soviet music publications? some anecdotical evidence seems to imply that has been an increase of interest in soviet music in the last 10 years or so.
 
