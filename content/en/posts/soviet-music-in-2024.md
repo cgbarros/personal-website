@@ -5,9 +5,21 @@ draft: true
 tags: ["music", "communism", "soviet music", "data analysis"]
 ---
 
-- After the fall of the USSR, its themes became obsolete in the west?
-- Themes like socialist realism - the soviet art style (?)
-- What about soviet music?
+When I was preparing my phd analysing books on soviet music history, it was important to know if this subject was still relevant in musicology punlications. Of course as a theme it will never be exhausted, but if it is considered obsolet and there is jo debate, there is no point in polemicizing.
+
+Besides knowing some books and searching for publications online, The first point of data that I came across was [Google's Ngram Viewer](https://books.google.com/ngrams/). I won't go into detail on what an n-gram is and what the viewer's numbers mean, but, basically, this tool will show you the frequency of a keyword in a subset of Google Books texts through time.
+
+In Ngram Viewer, each subset is called a _corpus_, If we search for 'soviet music' in the english-language
+
+We can expect tjat the scientific interest kn Soviet music would be diminishing after the fall of the doviet union. The crisis of the communist movement, from Krushschev's speech in the 20th congress of the cpsu[fn], made worse after the final transition to capitalism, seem to have put an end in the dispute between east and west and virtually all fields, including art.
+
+Concepts like socialist realism should now have very few, if any, defenders. And ideologies that consider this aesthetic concept empty of meaning (both theoretical and practical) are probably taken as a matter of course.
+
+But is that really so? what is the current state of soviet music publications? some anecdotical evidence seems to imply that has been an increase of interest in soviet music in the last 10 years or so.
+
+
+
+
 - The opening of soviet archives [when?] brought new evidence to soviet music
 - More books seem to be published
 	- habokian
