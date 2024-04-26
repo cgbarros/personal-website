@@ -1,7 +1,7 @@
 ---
 title: "Automated Egg Boiler"
-date: 2024-04-25
-draft: false
+date: 2024-04-25:T22:03Z
+draft: true
 tags: ["fun", "hacking", "weekend projects"]
 cover:
   image: "/en/posts/auto-egg-boiler/egg_boiler_ready.webp"
@@ -18,9 +18,9 @@ Besides this inconvenience, I want to wake up with my eggs ready for eating. So,
 
  ## The "smart" relay
 
-I went with a model [like this one](https://amzn.to/3Uafdkz) (mine is a bit different because I bought here in Brazil, but should be very similar). It's very intuitive to wire it: the plug wires go to the "input" side and the boiler wires go to the "output" side.
+I went with a model [like this one](https://amzn.to/3Uafdkz) (mine is a bit different because I bought here in Brazil, but should be very similar). It's very intuitive to wire it: the plug wires go to the "input" side and the boiler wires go to the "output" side. test test test.
 
-<!-- wiring pics -->
+![Wiring 1](/en/posts/auto-egg-boiler/wiring1.webp "This is how the wires go")
 
 ## Testing the relay
 
