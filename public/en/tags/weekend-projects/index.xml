@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Caio Barros</title>
-    <link>/en/posts/</link>
-    <description>Recent content in Posts on Caio Barros</description>
+    <title>weekend projects on Caio Barros</title>
+    <link>/en/tags/weekend-projects/</link>
+    <description>Recent content in weekend projects on Caio Barros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/en/tags/weekend-projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated Egg Boiler</title>
       <link>/en/posts/auto-egg-boiler/auto-egg-boiler/</link>

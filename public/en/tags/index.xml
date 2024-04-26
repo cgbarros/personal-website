@@ -6,6 +6,28 @@
     <description>Recent content in Tags on Caio Barros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fun</title>
+      <link>/en/tags/fun/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/en/tags/fun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hacking</title>
+      <link>/en/tags/hacking/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/en/tags/hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>weekend projects</title>
+      <link>/en/tags/weekend-projects/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/en/tags/weekend-projects/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,8 +1,13 @@
 ---
 title: "Automated Egg Boiler"
-date: 2024-02-13T18:18:00Z
-draft: true
+date: 2024-04-25
+draft: false
 tags: ["fun", "hacking", "weekend projects"]
+cover:
+  image: "/en/posts/auto-egg-boiler/egg_boiler_ready.webp"
+  alt: "The Egg Boiler"
+  caption: "The Egg Boiler"
+  relative: false
 ---
 
 My wife gave me this awesome electric egg boiler in Christmas 2021. It's very simple: add some water to the plate, add the eggs using the support, cover it, turn it on, and wait. 
