@@ -1,7 +1,7 @@
 ---
 title: "Automated Egg Boiler"
 date: 2024-04-25:T22:03Z
-draft: true
+draft: false
 tags: ["fun", "hacking", "weekend projects"]
 cover:
   image: "/en/posts/auto-egg-boiler/egg_boiler_ready.webp"
@@ -21,19 +21,18 @@ Besides this inconvenience, I want to wake up with my eggs ready for eating. So,
 I went with a model [like this one](https://amzn.to/3Uafdkz) (mine is a bit different because I bought here in Brazil, but should be very similar). It's very intuitive to wire it: the plug wires go to the "input" side and the boiler wires go to the "output" side. test test test.
 
 ![Wiring 1](/en/posts/auto-egg-boiler/wiring1.webp "This is how the wires go")
+![Wiring 2](/en/posts/auto-egg-boiler/wiring2.webp "Wires already screwed")
+![Wiring 3](/en/posts/auto-egg-boiler/wiring3.webp "Relay ready with wire cover screwed")
+
 
 ## Testing the relay
 
 These IoT gadgets normally ask you to install and setup an account in their app. You set it up, and next you should be able to sync it with Google Home or Siri, after that you can forget the app. On this particular one, though, I had to find a different account conection in Google Home than the name of its app. So, make sure to read the instructions on how to do this, as it might not be as intuitive as it should.
 
-<!-- app connection -->
-
 After that, you can control the device on Google Home and, more importantly, set up automations. I made this demo where it turns on, waits for 3 seconds, and then turns off. The real automation will take about 13 minutes. That's the time it takes to finish boiling the eggs (yes, I measured). Even if it's not perfect, it doesn't matter: the boiler will turn itself off and the relay will just make sure that it doesn't turn on again.
 
-<!-- 3s demo -->
+<iframe width="315" height="560" src="https://www.youtube.com/embed/IrH9HDn1v_s" title="#eggboiler #funny #automation #iot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Boil while they sleep
 
 A better automation would be to detect when the boiler turns off and the open the relay, but the wiring and the coding would be more complex (coding? this project has 0 lines of code), and you would still need to use the relay to turn the boiler on. For now, the boiler works great.
-
-<!-- happy pic -->

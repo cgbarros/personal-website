@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soviet Music on Caio Barros</title>
+    <link>//localhost:1313/en/tags/soviet-music/</link>
+    <description>Recent content in Soviet Music on Caio Barros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Feb 2024 18:18:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/en/tags/soviet-music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Growing interest in Soviet Music History</title>
+      <link>//localhost:1313/en/posts/soviet-music-in-2024/</link>
+      <pubDate>Tue, 13 Feb 2024 18:18:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/soviet-music-in-2024/</guid>
+      <description>When I was preparing my phd analysing books on soviet music history, it was important to know if this subject was still relevant in musicology punlications. Of course as a theme it will never be exhausted, but if it is considered obsolet and there is jo debate, there is no point in polemicizing.&#xA;Besides knowing some books and searching for publications online, The first point of data that I came across was Google&amp;rsquo;s Ngram Viewer.</description>
+    </item>
+  </channel>
+</rss>

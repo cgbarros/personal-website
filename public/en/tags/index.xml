@@ -2,31 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Caio Barros</title>
-    <link>/en/tags/</link>
+    <link>//localhost:1313/en/tags/</link>
     <description>Recent content in Tags on Caio Barros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>fun</title>
-      <link>/en/tags/fun/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/en/tags/fun/</guid>
+      <title>Fun</title>
+      <link>//localhost:1313/en/tags/fun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/fun/</guid>
       <description></description>
     </item>
     <item>
-      <title>hacking</title>
-      <link>/en/tags/hacking/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/en/tags/hacking/</guid>
+      <title>Hacking</title>
+      <link>//localhost:1313/en/tags/hacking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/hacking/</guid>
       <description></description>
     </item>
     <item>
-      <title>weekend projects</title>
-      <link>/en/tags/weekend-projects/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/en/tags/weekend-projects/</guid>
+      <title>Weekend Projects</title>
+      <link>//localhost:1313/en/tags/weekend-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/weekend-projects/</guid>
       <description></description>
     </item>
   </channel>

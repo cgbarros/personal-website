@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hacking on Caio Barros</title>
-    <link>/en/tags/hacking/</link>
-    <description>Recent content in hacking on Caio Barros</description>
+    <title>Hacking on Caio Barros</title>
+    <link>//localhost:1313/en/tags/hacking/</link>
+    <description>Recent content in Hacking on Caio Barros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/en/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated Egg Boiler</title>
-      <link>/en/posts/auto-egg-boiler/auto-egg-boiler/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/en/posts/auto-egg-boiler/auto-egg-boiler/</guid>
-      <description>My wife gave me this awesome electric egg boiler in Christmas 2021. It&amp;rsquo;s very simple: add some water to the plate, add the eggs using the support, cover it, turn it on, and wait.
-The boiler will heat the water and turn off automatically when the water finishes evaporating. It&amp;rsquo;s just a thermal switch: it turns off because the plate gets hotter once the water is not there anymore. The problem is that although it turns off, it doesn&amp;rsquo;t flip the on/off switch, like, say, those electric kettles.</description>
+      <link>//localhost:1313/en/posts/auto-egg-boiler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/auto-egg-boiler/</guid>
+      <description>My wife gave me this awesome electric egg boiler in Christmas 2021. It&amp;rsquo;s very simple: add some water to the plate, add the eggs using the support, cover it, turn it on, and wait.&#xA;The boiler will heat the water and turn off automatically when the water finishes evaporating. It&amp;rsquo;s just a thermal switch: it turns off because the plate gets hotter once the water is not there anymore. The problem is that although it turns off, it doesn&amp;rsquo;t flip the on/off switch, like, say, those electric kettles.</description>
     </item>
   </channel>
 </rss>
