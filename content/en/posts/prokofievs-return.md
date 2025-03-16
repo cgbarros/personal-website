@@ -1,6 +1,7 @@
 ---
 title: "Was Prokofiev Lured into the Soviet Union? Examining the Evidence"
 date: 2025-03-15
+lastmod: 2025-03-16
 draft: false
 tags: ["soviet music", "prokofiev", communism"]
 cover:
@@ -8,6 +9,8 @@ cover:
   alt: "Picture of Sergei Prokofiev playing chess with a music sheet on the front."
   relative: false
 ---
+
+
 
 In early 1936, Sergei Prokofiev, one of the most celebrated composers of the 20th century, decided to leave Paris and settle in Moscow, returning to the USSR (see the [timeline](#timeline)). His return has been widely interpreted as a highly symbolic event — one that has fueled conflicting narratives. A common claim in Western scholarship is that Prokofiev was deceived into returning, only to later find himself trapped by the Soviet regime. One of the most influential works advancing this view is Simon Morrison’s [*The People's Artist: Prokofiev’s Soviet Years*](https://academic.oup.com/book/7869). But does the historical evidence support this interpretation?
 
@@ -23,31 +26,39 @@ Morrison suggests that Prokofiev was actively recruited to the USSR through a co
 
 > The forty-four letters and telegrams exchanged by Atovmyan and Prokofiev between 1932 and 1934 attest to the seriousness of the recruitment effort. A letter from May 4, 1933, finds Atovmyan meticulously tending to the logistics of Prokofiev’s latest visit to the Soviet Union. (*The People's Artist*, p. 19)
 
-Morrison himself published the translation in English of the full correspondence between Prokofiev and Atovmyan from 1933 to 1952 in [*Sergey Prokofiev and His World*](https://press.princeton.edu/books/paperback/9780691138954/sergey-prokofiev-and-his-world). Of these, only [three letters](#letters) date from before 1941, which leads us to assume that the other 41 letters were exchanged before 1933 and not included in Morrison's translations.
+Morrison himself published the translation in English of the correspondence between Prokofiev and Atovmyan from 1933 to 1952 available in the [Russian State Archive of Literature and Art](https://rgali.ru/). The translations are available in [*Sergey Prokofiev and His World*](https://press.princeton.edu/books/paperback/9780691138954/sergey-prokofiev-and-his-world). Of these, only [three letters](#letters), transcribed in the end of this article, date from before 1941. In the preface to the translations, written by Nelly Kravetz, we learn that some of the correspondence between Prokofiev and Atovmyan are archived in the *"Glinka" Museum of Musical Culture* (which was renamed in 2018 to [*Russian National Museum of Music*](https://music-museum.ru/), or RNMM) and some on the [Serge Prokofiev Foundation Archive](https://library.columbia.edu/libraries/rbml/units/performing_arts/prokofiev.html), currently at the *Rare Book and Manuscript Library*, in Columbia University (when the book was published, the archive lived in Goldsmiths College, London)
 
-In any case, all three letters (two from Atovmyan to Prokofiev and one from Prokofiev to Atovmyan) discuss logistics and commissions — not a secret recruitment plan, much less a deception.
+> GTsMMK [The "Glinka" Museum - C.B.] possesses the letters and telegrams sent by Prokofiev to Atovmyan between September 16, 1932, and September 7, 1952, but only two letters from Atovmyan to Prokofiev, the first from the early 1930s, the second from July 12, 1943. The GTsMMK holdings also include fourteen letters sent by Prokofiev to Atovmyan between 1932 and 1934, which concern the programs of his concerts in Moscow, the dates of his visits to the Soviet Union, and performances of Soviet music in Western Europe. These fourteen letters have not been included in this gathering, since they are being prepared by GTsMMK for a separate Russian-language publication, and are thus inaccessible. In addition, the Prokofiev Archive at Goldsmiths College, London, contains forty-four pieces of correspondence between Prokofiev and Atovmyan, likewise not included here. This material, too, concerns Prokofiev’s Soviet commissions and performances between 1932 and 1934, before his permanent relocation from Paris to Moscow. (*Sergey Prokofiev and His World*, p. 192)
+
+I couldn't find references to this publication of the RNMM in the Museum's website. I'm trying to contact them and will update this article if I have news on this. The material of the *Prokofiev Archive* is likewise not available online, as far as I know, and I suspect it should be harder to acquire because of its volume.
+
+In any case, all [three letters](#letters) translated by Morrisson (two from Atovmyan to Prokofiev and one from Prokofiev to Atovmyan) discuss logistics and commissions — not a secret recruitment plan, much less a deception.
 
 Additionally, Morrison cites a recollection from Atovmyan about a conversation with Prokofiev during his concerts in the USSR in 1932:
 
 > I found out during the conversation that [Prokofiev] had been obliged over the course of the year to give about 100 concerts and to compose in snatches, primarily on the train. Because of this he had to get used to writing [instrumental works] as piano scores and marking the instrumentation on them. When I suggested settling in Moscow he replied: ‘You should understand that I feel constrained in one country: even if I have 4–5 concerts in Moscow, Leningrad, or supposedly Kiev, Baku, and Tbilisi—that’s the maximum I can have. I’ll die here of starvation.’ ‘You won’t die,’ I replied, ‘We’ll guarantee you commissions for creative work.’ He took an interest in these commissions and, hearing the details, said: ‘Yes, it’s worth thinking about your offer.’ (*The People's Artist*, p. 18)
 
-This account comes from unpublished texts by Atovmyan that Morrison had access to through Atovmyan's daughter. It shows no plot to lure Prokofiev with false promises. Instead, it reveals a practical negotiation: Prokofiev's was a professional composer, and Soviet officials offered commissions to incentivize him. 
+This account comes from unpublished texts by Atovmyan that Morrison had access to through Atovmyan's daughter. It also shows no plot to lure Prokofiev with false promises. Instead, it reveals a practical negotiation: Prokofiev's was a professional composer, and Soviet officials offered commissions to incentivize him. 
 
 One might argue (as does Morrisson) that this was an active recruitment move by the Soviet State. But, so what? Actively inviting Russia's best known artists to return to their country and offering commissions to do it doesn't imply deception. On the contrary, the timing seemed to be right: the civil war had ended, the country was reindustrializing, and the dispute between nations were intensifying. This kind of move was not uncommon: Prokofiev found the Soviet offer more appealing, but Stravinsky, one might argue, was also "lured" (by wealthy patrons) to the US, where he enjoyed a comfortable life.
 
-Assuming the other 41 "letters and telegrams" that we don't have access follow the same pattern as the 3 we have, they likely contain further details on his performances and commissions — but not a plan to deceive him.
+Judging by Kravetz's description of the archival material, Morrisson is referncing the letters at the *Serge Prokofiev Foundation Archive* when he mentions the "fourty-four letters and telegrams". Although we don't have access to this material, Kravetz hints that this correspondence also "concerns Prokofiev’s Soviet commissions and performances between 1932 and 1934". So it's probaly safe to assume that they follow the same pattern as the 3 we have: financial and logistical discussion — not a plan to deceive Prokofiev.
 
 ## The 1925 invitation: a promise kept, not broken
 
 While Morrison argues that Soviet officials actively recruited Prokofiev in the 1930s, he also claims that deception began even earlier — with an official invitation in 1925. However, a closer look at this invitation reveals no broken promises.
 
-In 1925, Nadezhda Bryusova, writing on behalf of Anatoly Lunacharsky, invited three Russian émigré musicians, Prokofiev, Igor Stravinsky, and Alexander Borovsky, to return to the USSR. Morrison transcribes this letter in English, and a transcription of the original in Russian is available via Marina Frolova-Walker's article [*Effekt prisutstviya: Prokof'ev v rossii 1920-kh godov*](https://prokofiev.rhga.ru/section/s-s-prokofev-v-rossii/effekt-prisutstviya-prokofev-v-rossii-1920-kh-godov.html).
+In 1925, Nadezhda Bryusova, writing on behalf of Anatoly Lunacharsky, invited three Russian émigré musicians, Prokofiev, Igor Stravinsky, and Alexander Borovsky, to return to the USSR. The original letter is archived in the *Russian State Archive of Literature and Art* (Reference: [Fund 2009, Inventory 2, Storage Unit 4](https://www.rgali.ru/storage-unit/2412144)) Morrison transcribes this letter in English, and a transcription of the original in Russian is available via Marina Frolova-Walker's article [*Effekt prisutstviya: Prokof'ev v rossii 1920-kh godov*](https://prokofiev.rhga.ru/section/s-s-prokofev-v-rossii/effekt-prisutstviya-prokofev-v-rossii-1920-kh-godov.html).
 
 > In response to your address to the Director of the Arts Department of the State Academic Council comrade [Pavel] Novitsky, the People’s Commissar for Enlightenment Anatoliy Vasilyevich Lunacharsky instructs me to convey the following to you:
 >
 >> The government agrees to your return to Russia. It agrees to grant you full amnesty for all prior offenses, if any such occurred. It stands to reason that the government cannot grant such amnesty for counter-revolutionary activities in the future. It likewise guarantees complete freedom of travel into and out of the RSFSR as you desire.
 >
 > I am certain that the entire musical world of our Union will sincerely welcome your return. (*The People's Artist*, p. 18)
+
+> Правительство согласно на Ваше возвращение в Россию. Оно согласно дать Вам полную амнистию за все прежде совершенные проступки, если даже таковые имели место. Само собой разумеется, гарантии неприкосновенности в случае какого бы то ни было контрреволюционного поведения в будущем Правительство дать не может.
+>
+> Гарантируется также полная возможность въездов и выездов из РСФСР по Вашему желанию (*Effekt prisutstviya: Prokof'ev v rossii 1920-kh godov*, p. 323 - Frolova Walker ommits the "Bryusova" part of the letter and transcribes only the official invitation, in the middle)
 
 Morrison frames this as a false promise, suggesting that Soviet authorities later violated it by revoking Prokofiev’s travel rights. But this is misleading for several reasons:
 
@@ -126,7 +137,13 @@ In the end, Morrison’s argument relies more on assumptions, selective interpre
 
 ---
 
-## Timeline of Prokofiev’s Movements Between the USSR and Abroad {#timeline}
+## Appendix
+
+Below is a timeline of Prokofiev's tours through the USSR and the transcription of Morrison's translations of the three Prokofiev -Atovmyan letters from the 1930s.
+
+---
+
+### Timeline of Prokofiev’s Movements Between the USSR and Abroad {#timeline}
 
 - **1918** – Leaves Russia for the United States.
 - **1920** – Moves to Paris, becoming a leading figure in the European avant-garde.
@@ -143,9 +160,11 @@ In the end, Morrison’s argument relies more on assumptions, selective interpre
 
 ---
 
-## Letters between Levon Atovmyan and Sergei Prokofiev {#letters}
+### Letters between Levon Atovmyan and Sergei Prokofiev {#letters}
 
-### December 5, 1933 - Atovmyan to Prokofiev
+---
+
+#### December 5, 1933 - Atovmyan to Prokofiev
 
 Sergey Sergeyevich!
 
@@ -174,7 +193,9 @@ Atovmyan
 
 Moscow, Tverskoy Boulevard, Building 25, Apartment 10, Union of Soviet Composers
 
-### March 30, 1934 - Prokofiev to Atovmyan
+---
+
+#### March 30, 1934 - Prokofiev to Atovmyan
 
 Levon Tadevosovich,
 
@@ -187,7 +208,9 @@ See you soon.
 
 Yours, SPRKFV
 
-### April 9, 1934 - Atovmyan to Prokofiev
+---
+
+#### April 9, 1934 - Atovmyan to Prokofiev
 
 Sergey Sergeyevich,
 
@@ -223,4 +246,3 @@ If you have any questions, please let me know by telephone.
 Greetings, Atovmyan
 
 Forgive me for not typing. We will provide a typed accounting before you leave.
-
