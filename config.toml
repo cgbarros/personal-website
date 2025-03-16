@@ -26,3 +26,4 @@ defaultContentLanguageInSubdir = true
 			subtitle = 'Música, Comunismo, Tecnologia, algumas Bobagens'
 [params]
 	dateFormat = '2006-01-02'
+	icon = '/favicon.ico'

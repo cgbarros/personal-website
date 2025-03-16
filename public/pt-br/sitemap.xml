@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/pt-br/posts/guerra-cultural-palestina/</loc>
-    <lastmod>2024-02-20T13:58:00+00:00</lastmod>
-  </url><url>
     <loc>/pt-br/</loc>
-    <lastmod>2024-02-20T13:58:00+00:00</lastmod>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,13 +16,13 @@
                 />
   </url><url>
     <loc>/pt-br/tags/comunismo/</loc>
-    <lastmod>2024-02-20T13:58:00+00:00</lastmod>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/pt-br/tags/cultura/</loc>
-    <lastmod>2024-02-20T13:58:00+00:00</lastmod>
+    <loc>/pt-br/tags/filosofia/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pt-br/posts/</loc>
-    <lastmod>2024-02-20T13:58:00+00:00</lastmod>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,7 +35,7 @@
                 />
   </url><url>
     <loc>/pt-br/tags/</loc>
-    <lastmod>2024-02-20T13:58:00+00:00</lastmod>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,6 +46,15 @@
                 hreflang="pt-BR"
                 href="/pt-br/tags/"
                 />
+  </url><url>
+    <loc>/pt-br/posts/materialismo/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pt-br/posts/guerra-cultural-palestina/</loc>
+    <lastmod>2024-02-20T13:58:00+00:00</lastmod>
+  </url><url>
+    <loc>/pt-br/tags/cultura/</loc>
+    <lastmod>2024-02-20T13:58:00+00:00</lastmod>
   </url><url>
     <loc>/pt-br/categories/</loc>
     <xhtml:link

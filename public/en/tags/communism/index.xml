@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Communism on Caio Barros</title>
-    <link>//localhost:1313/en/tags/communism/</link>
-    <description>Recent content in Communism on Caio Barros</description>
+    <title>communism on Caio Barros</title>
+    <link>/en/tags/communism/</link>
+    <description>Recent content in communism on Caio Barros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2024 18:18:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/en/tags/communism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/en/tags/communism/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Growing interest in Soviet Music History</title>
-      <link>//localhost:1313/en/posts/soviet-music-in-2024/</link>
-      <pubDate>Tue, 13 Feb 2024 18:18:00 +0000</pubDate>
-      <guid>//localhost:1313/en/posts/soviet-music-in-2024/</guid>
-      <description>When I was preparing my phd analysing books on soviet music history, it was important to know if this subject was still relevant in musicology punlications. Of course as a theme it will never be exhausted, but if it is considered obsolet and there is jo debate, there is no point in polemicizing.&#xA;Besides knowing some books and searching for publications online, The first point of data that I came across was Google&amp;rsquo;s Ngram Viewer.</description>
+      <title>Revisiting My Conclusion on Soviet Music Historiography</title>
+      <link>/en/posts/revisiting-soviet-music/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/en/posts/revisiting-soviet-music/</guid>
+      <description>In my PhD thesis, I conducted a content analysis of 13 books specializing in the history of Soviet music. For each book, I examined its responses to a set of key historical questions, including:
+Why were the ASM (Association for Contemporary Music) and RAPM (Russian Association of Proletarian Musicians) dissolved in 1932? Why did Prokofiev return to the USSR in 1936? Why was Shostakovich’s Lady Macbeth of Mtsensk censored, while Dzerzhinsky’s Quiet Flows the Don was praised?</description>
     </item>
   </channel>
 </rss>

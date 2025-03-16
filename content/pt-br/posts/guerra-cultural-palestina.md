@@ -3,6 +3,11 @@ title: "A Pilhagem Cultural da Palestina"
 date: 2024-02-20T13:58:00Z
 draft: false
 tags: ["comunismo", "cultura"]
+cover:
+  image: "/pt-br/posts/guerra-cultural-palestina/Taysir-2022-6086.webp"
+  alt: "Memórias de uma cidade congelade em fotografias, por Taysir Batniji"
+  caption: "Memórias de uma cidade congelade em fotografias, por Taysir Batniji"
+  relative: false
 ---
 
 ## A dominação imperialista ocorre também no campo cultural
