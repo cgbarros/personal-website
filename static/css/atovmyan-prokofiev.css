@@ -1,0 +1,30 @@
+.concert-list {
+  display: flex; 
+  flex-direction: column;  
+  margin-bottom: var(--content-gap);
+}
+
+.concert-list .concert-sublist {
+  display: flex; 
+  flex-direction: row;
+  gap: 5px;
+}
+
+.concert-list .concert-sublist .concert-category {
+  min-width: fit-content;
+}
+
+.letter-address, .signature {
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: var(--content-gap);
+}
+
+.italic, .signature-right {
+  font-style: italic;
+}
+
+.date, .signature-right, .address-right {
+  text-align: right;
+}
