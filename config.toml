@@ -27,3 +27,8 @@ defaultContentLanguageInSubdir = true
 [params]
 	dateFormat = '2006-01-02'
 	icon = '/favicon.ico'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

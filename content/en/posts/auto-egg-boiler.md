@@ -1,6 +1,6 @@
 ---
 title: "Automated Egg Boiler"
-date: 2024-04-25:T22:03Z
+date: 2024-04-25
 draft: false
 tags: ["fun", "hacking", "weekend projects"]
 cover:
