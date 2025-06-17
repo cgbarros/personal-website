@@ -2,7 +2,7 @@ run = "hugo && miniserve public --index index.html"
 entrypoint = "content/posts/hello.md"
 
 [nix]
-channel = "stable-23_11"
+channel = "stable-24_05"
 
 [deployment]
 build = ["hugo"]

@@ -2,103 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="//localhost:1313/pt-br/"
+                href="/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/"
+                href="/en/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/resources/atovmyan-prokofiev/</loc>
+    <loc>/en/resources/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/resources/</loc>
-    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/en/tags/communism/</loc>
+    <loc>/en/tags/communism/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/posts/</loc>
+    <loc>/en/posts/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="//localhost:1313/pt-br/posts/"
+                href="/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/posts/"
+                href="/en/posts/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/prokofiev/</loc>
+    <loc>/en/tags/prokofiev/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/soviet-music/</loc>
+    <loc>/en/tags/soviet-music/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="//localhost:1313/pt-br/tags/"
+                href="/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/"
+                href="/en/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/posts/prokofievs-return/</loc>
+    <loc>/en/posts/prokofievs-return/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/communism/</loc>
+    <loc>/en/tags/communism/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/posts/revisiting-soviet-music/</loc>
+    <loc>/en/posts/revisiting-soviet-music/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/socialist-realism/</loc>
+    <loc>/en/tags/socialist-realism/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/posts/auto-egg-boiler/</loc>
+    <loc>/en/posts/auto-egg-boiler/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/fun/</loc>
+    <loc>/en/tags/fun/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/hacking/</loc>
+    <loc>/en/tags/hacking/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/weekend-projects/</loc>
+    <loc>/en/tags/weekend-projects/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/data-analysis/</loc>
-    <lastmod>2024-02-13T18:18:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/en/posts/soviet-music-in-2024/</loc>
-    <lastmod>2024-02-13T18:18:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/en/tags/music/</loc>
-    <lastmod>2024-02-13T18:18:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="//localhost:1313/pt-br/categories/"
+                href="/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/categories/"
+                href="/en/categories/"
                 />
   </url>
 </urlset>
