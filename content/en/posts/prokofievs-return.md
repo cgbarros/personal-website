@@ -1,7 +1,7 @@
 ---
 title: "Was Prokofiev Lured into the Soviet Union? Examining the Evidence"
 date: 2025-03-15
-lastmod: 2025-06-15
+lastmod: 2025-06-16
 draft: false
 tags: ["soviet music", "prokofiev", communism"]
 cover:
@@ -10,7 +10,7 @@ cover:
   relative: false
 ---
 
-**Last update** (2025-06-15): I got access to the book [_Ryadom s velikimi_](http://old.gitis.net/izdatelstvo-gitis/publishing/item/ryadom-s-velikimi-atovmyan-i-ego-vremya), edited by Nelly Kravetz, which contains the full correspondence between Prokofiev and L. Atovmyan and Antovmyan's memoirs. I transcribed all letters between 1932 and 1936 [here](/en/resources/atovmyan-prokofiev/) and, with that, [the section on the Atovmyan-Prokofiev correponce](#the-atovmyan-correspondence-no-evidence-of-deception) was substancially changed. I'm still working on the analysis of Atovmyan's memoirs and should have soon access to more primary evidence to complete the other sections.
+**Last update** (2025-06-16): I got access to the book [_Ryadom s velikimi_](http://old.gitis.net/izdatelstvo-gitis/publishing/item/ryadom-s-velikimi-atovmyan-i-ego-vremya), edited by Nelly Kravetz, which contains the full correspondence between Prokofiev and L. Atovmyan and Antovmyan's memoirs. I transcribed all letters between 1932 and 1936 [here](/en/resources/atovmyan-prokofiev/) and, with that, [the section on the Atovmyan-Prokofiev correponce](#the-atovmyan-correspondence-no-evidence-of-deception) was substancially changed. I'm still working on the analysis of Atovmyan's memoirs and should have soon access to more primary evidence to complete the other sections.
 
 ---
 
@@ -20,76 +20,11 @@ Morrison presents a narrative in which Sergei Prokofiev was "lured" back into th
 
 > The reasons for his relocation are complicated and, in their own way, frightening. It emerges that the steel-willed composer never intended to remain in the Soviet Union. The regime needed celebrities, and he was lured into becoming one of them on the promise that nothing would change in his international career and that Moscow would simply replace Paris as the center of his operations. (*The People's Artist*, p. 3)
 
-I examined Morrison’s sources — in particular the **the letters between Prokofiev and Levon Atovmyan between 1933 and 1934**, the **1925 invitation letter from Nadezhda Bryusova**, and **Prokofiev's lost of traveling permissions in 1938**. The available evidence shows that Morrison's story doesn’t hold up.
-
-## The Atovmyan correspondence: no evidence of deception
-
-Morrison suggests that Prokofiev was actively recruited to the USSR through a concerted effort by Soviet officials. He states:
-
-> The forty-four letters and telegrams exchanged by Atovmyan and Prokofiev between 1932 and 1934 attest to the seriousness of the recruitment effort. A letter from May 4, 1933, finds Atovmyan meticulously tending to the logistics of Prokofiev’s latest visit to the Soviet Union. (*The People's Artist*, p. 19)
-
-Morrison himself published the translation in English of the correspondence between Prokofiev and Atovmyan from 1933 to 1952 available in the [Russian State Archive of Literature and Art](https://rgali.ru/). The translations are available in [*Sergey Prokofiev and His World*](https://press.princeton.edu/books/paperback/9780691138954/sergey-prokofiev-and-his-world). Of these, only [three letters](#letters), transcribed in the end of this article, date from before 1941. In the preface to the translations, written by Nelly Kravetz, we learn that some of the correspondence between Prokofiev and Atovmyan are archived in the *"Glinka" Museum of Musical Culture* (which was renamed in 2018 to [*Russian National Museum of Music*](https://music-museum.ru/), or RNMM) and some on the [Serge Prokofiev Foundation Archive](https://library.columbia.edu/libraries/rbml/units/performing_arts/prokofiev.html), currently at the *Rare Book and Manuscript Library*, in Columbia University (when the book was published, the archive lived in Goldsmiths College, London)
-
-> GTsMMK [The "Glinka" Museum - C.B.] possesses the letters and telegrams sent by Prokofiev to Atovmyan between September 16, 1932, and September 7, 1952, but only two letters from Atovmyan to Prokofiev, the first from the early 1930s, the second from July 12, 1943. The GTsMMK holdings also include fourteen letters sent by Prokofiev to Atovmyan between 1932 and 1934, which concern the programs of his concerts in Moscow, the dates of his visits to the Soviet Union, and performances of Soviet music in Western Europe. These fourteen letters have not been included in this gathering, since they are being prepared by GTsMMK for a separate Russian-language publication, and are thus inaccessible. In addition, the Prokofiev Archive at Goldsmiths College, London, contains forty-four pieces of correspondence between Prokofiev and Atovmyan, likewise not included here. This material, too, concerns Prokofiev’s Soviet commissions and performances between 1932 and 1934, before his permanent relocation from Paris to Moscow. (*Sergey Prokofiev and His World*, p. 192)
-
-Luckily, in 2012 Kravetz published the full correspondence between Prokofiev and Atovmyan on the book [_Ryadom s velikimi: Atovmyan i ego vremya_](http://old.gitis.net/izdatelstvo-gitis/publishing/item/ryadom-s-velikimi-atovmyan-i-ego-vremya) (Among the Great: Atovmyan and His Time), published by the Russian Institute of Theatre Arts.
-
-I transcribed all the letters between 1932 and 1936 and made them available [here](/en/resources/atovmyan-prokofiev/). The [three letters](#letters) translated by Morrisson (two from Atovmyan to Prokofiev and one from Prokofiev to Atovmyan) discuss logistics and commissions — in themselves they already show no clue of a secret recruitment plan, much less of deception. When looking at the full correspondence, however, the complete opposite of deception shows up. 
-
-The correspondence shows transparent communication of terms, expectations, and financial arrangements, with Prokofiev actively engaging in the discussion and even raising his own concerns. From the very first letter, the purpose of the invitation (concerts for his works) and the timeframe for his visit are clearly stated.
-
-> Горком композиторов Москвы поставлен в известность Н. Я. Мясковским, что Вы будете в СССР между 21 ноября и 5 декабря. Горком при черновой наметке программ своих симфонических концертов предолагал отвести Вашим произведениям один или два концерта, о чем проил сообщить Вам В. В. Держановского. ([Letter 1, Atovmyan to Prokofiev, August, 1923](http://localhost:1313/en/resources/atovmyan-prokofiev/#1-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-1932))
-
-> The Moscow Committee of Composers has been informed by N. Ya. Myaskovsky that you will be in the USSR between November 21 and December 5. The Committee, in its preliminary outline of its symphonic concert programs, intended to dedicate one or two concerts to your works, about which V. V. Derzhanovsky was asked to inform you. ([Letter 1, Atovmyan to Prokofiev, August, 1923](http://localhost:1313/en/resources/atovmyan-prokofiev/#1-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-1932))
-
-The financial terms, including the fee, travel expenses, and accommodation, were explicitly detailed. This level of clarity in material benefits suggests a formal offer, not a deceptive enticement. The Committee's additional requests for foreign musical scores and for Prokofiev to engage in discussions with Soviet composers were made openly and were part of the proposed activities, not hidden requirements. Prokofiev himself agrees to these terms, demonstrating his awareness and consent.
-
-> Гонорар по 3–м концертам 6.000 руб. плюс оплата проезда Ленинград Москва и обратно и гостиница за все время Вашего пребывания в Москве. д) Оплату нотного материала в советских дензнаках Горком берет на себя. ([Letter 5, Atovmyan to Prokofiev, November 1st, 1932](http://localhost:1313/en/resources/atovmyan-prokofiev/#5-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--1-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
-
-> Fee for 3 concerts 6,000 rubles plus payment for travel from Leningrad to Moscow and back and hotel for the entire duration of your stay in Moscow. d) The Committee undertakes to pay for sheet music material in Soviet currency. ([Letter 5, Atovmyan to Prokofiev, November 1st, 1932](http://localhost:1313/en/resources/atovmyan-prokofiev/#5-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--1-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
-
-> Московские композиторы убедительно просят Вас привезти с собой для библиотеки Горкома заграничные музыкальные новинки (издания 30, 31, 32 г.г.), т.е. которые Вы считаете наиболее значительными и интересными \[...\] Московские композиторы жаждут побеседовать с Вами о современной музыкальной жизни на Западе (в частности, во Франции). ([Letter 5, Atovmyan to Prokofiev, November 1st, 1932](http://localhost:1313/en/resources/atovmyan-prokofiev/#5-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--1-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
-
-> Moscow composers earnestly ask you to bring with you for the Committee's library foreign musical novelties (publications from 1930, 1931, 1932), i.e., those that you consider most significant and interesting... Moscow composers are eager to converse with you about contemporary musical life in the West (particularly in France). ([Letter 5, Atovmyan to Prokofiev, November 1st, 1932](http://localhost:1313/en/resources/atovmyan-prokofiev/#5-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--1-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
-
-Prokofiev actively engages in the scheduling logistics, raising his own constraints and proposing solutions, indicating he was not passively "lured" but rather an active participant in planning his visit. His responses consistently express willingness and enthusiasm for the proposed visits and activities.
-
-> Мои последние заграничные концерты в Варшаве 18 и 19 ноября; отменить их неудобно... Таким образом, я могу быть в Москве 21 го. Выехать обратно я должен 4 или 5 декабря... Ленфилармония уже давно предложила мне 1 декабря, теперь же выясняется, что этот день является единственной возможной датой для Москвы. Мне кажется, самое лучшее решение вопроса это постараться устроить так, чтобы я начал с Ленинграда, а кончил Москвой. ([Letter 2, Prokofiev to Atovmyan, Septemer 16, 1932](http://localhost:1313/en/resources/atovmyan-prokofiev/#2-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--16-%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F-1932))
-
-> My last foreign concerts are in Warsaw on November 18 and 19; it's inconvenient to cancel them... Thus, I can be in Moscow on the 21st. I must leave on December 4 or 5 to be in Paris on the 8th morning for the penultimate rehearsal of my symphonic concert. The Leningrad Philharmonic has long offered me December 1st, but now it turns out that this day is the only possible date for Moscow. It seems to me the best solution is to try to arrange it so that I start with Leningrad and finish with Moscow. ([Letter 2, Prokofiev to Atovmyan, Septemer 16, 1932](http://localhost:1313/en/resources/atovmyan-prokofiev/#2-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--16-%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F-1932))
-
-
-> благодарю Вас за Ваше предложение выступить в концертах Горкома, которое принимаю с радостью. ([Letter 2, Prokofiev to Atovmyan, Septemer 16, 1932](http://localhost:1313/en/resources/atovmyan-prokofiev/#2-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--16-%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F-1932))
-
-> I thank you for your offer to perform in the Gorcom concerts, which I accept with joy. 
-([Letter 2, Prokofiev to Atovmyan, Septemer 16, 1932](http://localhost:1313/en/resources/atovmyan-prokofiev/#2-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--16-%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F-1932))
-
-Beyond just performing, Prokofiev expresses willingness to contribute to cultural exchange and discussions, suggesting a deeper, voluntary interest in collaborating with Soviet musicians and institutions.
-
-> Побеседовать с композиторами о музыкальной жизни на Западе согласен и даже могу сделать одно предложение об исполнении вещей за границей, которое может их заинтересовать. ([Letter 6, Prokofiev to Atovmyan, November 7, 1932](http://localhost:1313/en/resources/atovmyan-prokofiev/#6-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--7-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
-
-> I agree to converse with composers about musical life in the West and can even make a proposal about performing works abroad that might interest them. ([Letter 6, Prokofiev to Atovmyan, November 7, 1932](http://localhost:1313/en/resources/atovmyan-prokofiev/#6-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--7-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
-
-Atovmyan himself admits to "a series of omissions" on his part regarding material transfers, and Prokofiev criticizes delays or lack of information. However, these are presented as logistical failures or communication issues, not intentional deceit aimed at "luring" him.
-
-> Я слыхал, что Вы неприятно удивлены моим поведением, в частности невыполнением взятых мною на себя обязательств. Признаюсь, что с моей стороны был целый ряд упущений, не допускающих оправданий. Дело в том, что почти тут же после Вашего отъезда я на некоторое время отошел от музыкальной работы и все Ваши поручения передал в Союз композиторов, работники которого не сумели организовать пересылку материала. Я же своевременно не проверил. Но у нас есть привычка честно признавать свои ошибки и немедля их исправлять. ([Letter 13, Atovmyan to prokofiev, March 27, 1933](http://localhost:1313/en/resources/atovmyan-prokofiev/#13-%d0%bb-%d1%82-%d0%b0%d1%82%d0%be%d0%b2%d0%bc%d1%8c%d1%8f%d0%bd--%d1%81-%d1%81-%d0%bf%d1%80%d0%be%d0%ba%d0%be%d1%84%d1%8c%d0%b5%d0%b2%d1%83--27-%d0%bc%d0%b0%d1%80%d1%82%d0%b0-1933))
-
-> I have heard that you were unpleasantly surprised by my behavior, in particular by my failure to fulfill the obligations I had taken upon myself. I confess that there were a number of oversights on my part that allow for no excuse.The fact is that almost immediately after your departure, I stepped away from musical work for a time and handed over all your assignments to the Union of Composers. The staff there failed to organize the shipment of materials, and I did not verify it in time. But we have a habit of honestly acknowledging our mistakes and correcting them without delay. ([Letter 13, Atovmyan to prokofiev, March 27, 1933](http://localhost:1313/en/resources/atovmyan-prokofiev/#13-%d0%bb-%d1%82-%d0%b0%d1%82%d0%be%d0%b2%d0%bc%d1%8c%d1%8f%d0%bd--%d1%81-%d1%81-%d0%bf%d1%80%d0%be%d0%ba%d0%be%d1%84%d1%8c%d0%b5%d0%b2%d1%83--27-%d0%bc%d0%b0%d1%80%d1%82%d0%b0-1933))
-
-
-Additionally, Morrison cites a recollection from Atovmyan about a conversation with Prokofiev during his concerts in the USSR in 1932:
-
-> I found out during the conversation that [Prokofiev] had been obliged over the course of the year to give about 100 concerts and to compose in snatches, primarily on the train. Because of this he had to get used to writing [instrumental works] as piano scores and marking the instrumentation on them. When I suggested settling in Moscow he replied: ‘You should understand that I feel constrained in one country: even if I have 4–5 concerts in Moscow, Leningrad, or supposedly Kiev, Baku, and Tbilisi—that’s the maximum I can have. I’ll die here of starvation.’ ‘You won’t die,’ I replied, ‘We’ll guarantee you commissions for creative work.’ He took an interest in these commissions and, hearing the details, said: ‘Yes, it’s worth thinking about your offer.’ (*The People's Artist*, p. 18)
-
-This account comes from unpublished texts by Atovmyan that Morrison had access to through Atovmyan's daughter. It also shows no plot to lure Prokofiev with false promises. Instead, it reveals a practical negotiation: Prokofiev's was a professional composer, and Soviet officials offered commissions to incentivize him. 
-
-One might argue (as does Morrisson) that this was an active recruitment move by the Soviet State. But, so what? Actively inviting Russia's best known artists to return to their country and offering commissions to do it doesn't imply deception. On the contrary, the timing seemed to be right: the civil war had ended, the country was reindustrializing, and the dispute between nations were intensifying. This kind of move was not uncommon: Prokofiev found the Soviet offer more appealing, but Stravinsky, one might argue, was also "lured" (by wealthy patrons) to the US, where he enjoyed a comfortable life.
-
-Judging by Kravetz's description of the archival material, Morrisson is referncing the letters at the *Serge Prokofiev Foundation Archive* when he mentions the "fourty-four letters and telegrams". Although we don't have access to this material, Kravetz hints that this correspondence also "concerns Prokofiev’s Soviet commissions and performances between 1932 and 1934". So it's probaly safe to assume that they follow the same pattern as the 3 we have: financial and logistical discussion — not a plan to deceive Prokofiev.
+I examined Morrison’s sources — in particular the **1925 invitation letter from Nadezhda Bryusova**, the **the letters between Prokofiev and Levon Atovmyan between 1933 and 1934**, **Atovmyan's Recollections** and **Prokofiev's lost of traveling permissions in 1938**. The available evidence shows that Morrison's story doesn’t hold up.
 
 ## The 1925 invitation: a promise kept, not broken
 
-While Morrison argues that Soviet officials actively recruited Prokofiev in the 1930s, he also claims that deception began even earlier — with an official invitation in 1925. However, a closer look at this invitation reveals no broken promises.
+Morrison claims that Prokofiev's deception began with an official invitation in 1925. However, a closer look at this invitation reveals no broken promises.
 
 In 1925, Nadezhda Bryusova, writing on behalf of Anatoly Lunacharsky, invited three Russian émigré musicians, Prokofiev, Igor Stravinsky, and Alexander Borovsky, to return to the USSR. The original letter is archived in the *Russian State Archive of Literature and Art* (Reference: [Fund 2009, Inventory 2, Storage Unit 4](https://www.rgali.ru/storage-unit/2412144)) Morrison transcribes this letter in English, and a transcription of the original in Russian is available via Marina Frolova-Walker's article [*Effekt prisutstviya: Prokof'ev v rossii 1920-kh godov*](https://prokofiev.rhga.ru/section/s-s-prokofev-v-rossii/effekt-prisutstviya-prokofev-v-rossii-1920-kh-godov.html).
 
@@ -111,6 +46,72 @@ Morrison frames this as a false promise, suggesting that Soviet authorities late
 
 So where is the deception? So far, none is in sight.
 
+## The Atovmyan correspondence: no evidence of deception
+
+Morrison also suggests that Prokofiev was actively recruited to the USSR through a concerted effort by Soviet officials. He states:
+
+> The forty-four letters and telegrams exchanged by Atovmyan and Prokofiev between 1932 and 1934 attest to the seriousness of the recruitment effort. A letter from May 4, 1933, finds Atovmyan meticulously tending to the logistics of Prokofiev’s latest visit to the Soviet Union. (*The People's Artist*, p. 19)
+
+Morrison himself published the translation in English of the correspondence between Prokofiev and Atovmyan from 1933 to 1952 available in the [Russian State Archive of Literature and Art](https://rgali.ru/). The translations are available in [*Sergey Prokofiev and His World*](https://press.princeton.edu/books/paperback/9780691138954/sergey-prokofiev-and-his-world). Of these, only [three letters](#letters), transcribed in the end of this article, date from before 1941. In the preface to the translations, written by Nelly Kravetz, we learn that some of the correspondence between Prokofiev and Atovmyan are archived in the *"Glinka" Museum of Musical Culture* (which was renamed in 2018 to [*Russian National Museum of Music*](https://music-museum.ru/), or RNMM) and some on the [Serge Prokofiev Foundation Archive](https://library.columbia.edu/libraries/rbml/units/performing_arts/prokofiev.html), currently at the *Rare Book and Manuscript Library*, in Columbia University (when the book was published, the archive lived in Goldsmiths College, London)
+
+> GTsMMK [The "Glinka" Museum - C.B.] possesses the letters and telegrams sent by Prokofiev to Atovmyan between September 16, 1932, and September 7, 1952, but only two letters from Atovmyan to Prokofiev, the first from the early 1930s, the second from July 12, 1943. The GTsMMK holdings also include fourteen letters sent by Prokofiev to Atovmyan between 1932 and 1934, which concern the programs of his concerts in Moscow, the dates of his visits to the Soviet Union, and performances of Soviet music in Western Europe. These fourteen letters have not been included in this gathering, since they are being prepared by GTsMMK for a separate Russian-language publication, and are thus inaccessible. In addition, the Prokofiev Archive at Goldsmiths College, London, contains forty-four pieces of correspondence between Prokofiev and Atovmyan, likewise not included here. This material, too, concerns Prokofiev’s Soviet commissions and performances between 1932 and 1934, before his permanent relocation from Paris to Moscow. (*Sergey Prokofiev and His World*, p. 192)
+
+Luckily, in 2012 Kravetz herself published the full correspondence between Prokofiev and Atovmyan on the book [_Ryadom s velikimi: Atovmyan i ego vremya_](http://old.gitis.net/izdatelstvo-gitis/publishing/item/ryadom-s-velikimi-atovmyan-i-ego-vremya) (Among the Great: Atovmyan and His Time), published by the Russian Institute of Theatre Arts.
+
+I transcribed all the letters between 1932 and 1936 and made them available [here](/en/resources/atovmyan-prokofiev/). The [three letters](#letters) translated by Morrisson (two from Atovmyan to Prokofiev and one from Prokofiev to Atovmyan) discuss logistics and commissions — in themselves they already show no clue of a secret recruitment plan, much less of deception. When looking at the full correspondence, however, we see the complete opposite of deception. 
+
+The correspondence shows transparent communication of terms, expectations, and financial arrangements, with Prokofiev actively engaging in the discussion and even raising his own concerns. From the very first letter, the purpose of the invitation (concerts for his works) and the timeframe for his visit are clearly stated.
+
+> Горком композиторов Москвы поставлен в известность Н. Я. Мясковским, что Вы будете в СССР между 21 ноября и 5 декабря. Горком при черновой наметке программ своих симфонических концертов предолагал отвести Вашим произведениям один или два концерта, о чем проил сообщить Вам В. В. Держановского. ([Letter 1, Atovmyan to Prokofiev, August, 1923](/en/resources/atovmyan-prokofiev/#1-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-1932))
+
+> The Moscow Committee of Composers has been informed by N. Ya. Myaskovsky that you will be in the USSR between November 21 and December 5. The Committee, in its preliminary outline of its symphonic concert programs, intended to dedicate one or two concerts to your works, about which V. V. Derzhanovsky was asked to inform you. ([Letter 1, Atovmyan to Prokofiev, August, 1923](/en/resources/atovmyan-prokofiev/#1-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-1932))
+
+The financial terms, including the fee, travel expenses, and accommodation, were explicitly detailed. This level of clarity in material benefits suggests a formal offer, not a deceptive enticement. The Committee's additional requests for foreign musical scores and for Prokofiev to engage in discussions with Soviet composers were made openly and were part of the proposed activities, not hidden requirements. Prokofiev himself agrees to these terms, demonstrating his awareness and consent.
+
+> Гонорар по 3–м концертам 6.000 руб. плюс оплата проезда Ленинград Москва и обратно и гостиница за все время Вашего пребывания в Москве. д) Оплату нотного материала в советских дензнаках Горком берет на себя. ([Letter 5, Atovmyan to Prokofiev, November 1st, 1932](/en/resources/atovmyan-prokofiev/#5-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--1-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
+
+> Fee for 3 concerts 6,000 rubles plus payment for travel from Leningrad to Moscow and back and hotel for the entire duration of your stay in Moscow. d) The Committee undertakes to pay for sheet music material in Soviet currency. ([Letter 5, Atovmyan to Prokofiev, November 1st, 1932](/en/resources/atovmyan-prokofiev/#5-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--1-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
+
+> Московские композиторы убедительно просят Вас привезти с собой для библиотеки Горкома заграничные музыкальные новинки (издания 30, 31, 32 г.г.), т.е. которые Вы считаете наиболее значительными и интересными \[...\] Московские композиторы жаждут побеседовать с Вами о современной музыкальной жизни на Западе (в частности, во Франции). ([Letter 5, Atovmyan to Prokofiev, November 1st, 1932](/en/resources/atovmyan-prokofiev/#5-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--1-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
+
+> Moscow composers earnestly ask you to bring with you for the Committee's library foreign musical novelties (publications from 1930, 1931, 1932), i.e., those that you consider most significant and interesting... Moscow composers are eager to converse with you about contemporary musical life in the West (particularly in France). ([Letter 5, Atovmyan to Prokofiev, November 1st, 1932](/en/resources/atovmyan-prokofiev/#5-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--1-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
+
+Prokofiev actively engages in the scheduling logistics, raising his own constraints and proposing solutions, indicating he was not passively "lured" but rather an active participant in planning his visit. His responses consistently express willingness and enthusiasm for the proposed visits and activities.
+
+> Мои последние заграничные концерты в Варшаве 18 и 19 ноября; отменить их неудобно... Таким образом, я могу быть в Москве 21 го. Выехать обратно я должен 4 или 5 декабря... Ленфилармония уже давно предложила мне 1 декабря, теперь же выясняется, что этот день является единственной возможной датой для Москвы. Мне кажется, самое лучшее решение вопроса это постараться устроить так, чтобы я начал с Ленинграда, а кончил Москвой. ([Letter 2, Prokofiev to Atovmyan, Septemer 16, 1932](/en/resources/atovmyan-prokofiev/#2-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--16-%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F-1932))
+
+> My last foreign concerts are in Warsaw on November 18 and 19; it's inconvenient to cancel them... Thus, I can be in Moscow on the 21st. I must leave on December 4 or 5 to be in Paris on the 8th morning for the penultimate rehearsal of my symphonic concert. The Leningrad Philharmonic has long offered me December 1st, but now it turns out that this day is the only possible date for Moscow. It seems to me the best solution is to try to arrange it so that I start with Leningrad and finish with Moscow. ([Letter 2, Prokofiev to Atovmyan, Septemer 16, 1932](/en/resources/atovmyan-prokofiev/#2-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--16-%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F-1932))
+
+Beyond just performing, Prokofiev expresses willingness to contribute to cultural exchange and discussions, suggesting a deeper, voluntary interest in collaborating with Soviet musicians and institutions.
+
+> Побеседовать с композиторами о музыкальной жизни на Западе согласен и даже могу сделать одно предложение об исполнении вещей за границей, которое может их заинтересовать. ([Letter 6, Prokofiev to Atovmyan, November 7, 1932](/en/resources/atovmyan-prokofiev/#6-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--7-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
+
+> I agree to converse with composers about musical life in the West and can even make a proposal about performing works abroad that might interest them. ([Letter 6, Prokofiev to Atovmyan, November 7, 1932](/en/resources/atovmyan-prokofiev/#6-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--7-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-1932))
+
+Prokofiev even criticizes some lack of communication and logistical issues, but they are presentend simply as such, not as any intentional deceit aiming at "luring" him.
+
+> весьма желательно, чтобы во главе учреждений, играющих роль в советской культуре, стояли люди деловые. А деловым людям вменяется в обязанность отвечать, хотя бы кратко, на письма, особенно когда эти последние касаются интересов советских композиторов. Надеюсь, что мои письма от 27 декабря и 15 января или Ваши ответы на них пропали, иначе мне было бы слишком неприятно сознание, что Вы не ответили на них. ([Letter 36, Prokofiev to Atovmyan, February 10, 1934](/en/resources/atovmyan-prokofiev/#36-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--10-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F-1934))
+
+> it is highly desirable that the institutions playing a role in Soviet culture be headed by businesslike people. And businesslike people are expected to reply — at least briefly — to letters, especially when these letters concern the interests of Soviet composers. I hope that my letters of December 27 and January 15 or your replies to them have simply been lost; otherwise, it would be too unpleasant to think that you chose not to respond. ([Letter 36, Prokofiev to Atovmyan, February 10, 1934](/en/resources/atovmyan-prokofiev/#36-%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2--%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD%D1%83--10-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F-1934))
+
+After Prokofiev's visit on 1932, Atovmyan himself admits to "a number of oversights" (целый ряд упущений) on his part regarding material transfers and volunteered to repair his and others' mistakes.
+
+> Я слыхал, что Вы неприятно удивлены моим поведением, в частности невыполнением взятых мною на себя обязательств. Признаюсь, что с моей стороны был целый ряд упущений, не допускающих оправданий. Дело в том, что почти тут же после Вашего отъезда я на некоторое время отошел от музыкальной работы и все Ваши поручения передал в Союз композиторов, работники которого не сумели организовать пересылку материала. Я же своевременно не проверил. Но у нас есть привычка честно признавать свои ошибки и немедля их исправлять. ([Letter 13, Atovmyan to Prokofiev, March 27, 1933](/en/resources/atovmyan-prokofiev/#13-%d0%bb-%d1%82-%d0%b0%d1%82%d0%be%d0%b2%d0%bc%d1%8c%d1%8f%d0%bd--%d1%81-%d1%81-%d0%bf%d1%80%d0%be%d0%ba%d0%be%d1%84%d1%8c%d0%b5%d0%b2%d1%83--27-%d0%bc%d0%b0%d1%80%d1%82%d0%b0-1933))
+
+> I have heard that you were unpleasantly surprised by my behavior, in particular by my failure to fulfill the obligations I had taken upon myself. I confess that there were a number of oversights on my part that allow for no excuse. The fact is that almost immediately after your departure, I stepped away from musical work for a time and handed over all your assignments to the Union of Composers. The staff there failed to organize the shipment of materials, and I did not verify it in time. But we have a habit of honestly acknowledging our mistakes and correcting them without delay. ([Letter 13, Atovmyan to Prokofiev, March 27, 1933](/en/resources/atovmyan-prokofiev/#13-%d0%bb-%d1%82-%d0%b0%d1%82%d0%be%d0%b2%d0%bc%d1%8c%d1%8f%d0%bd--%d1%81-%d1%81-%d0%bf%d1%80%d0%be%d0%ba%d0%be%d1%84%d1%8c%d0%b5%d0%b2%d1%83--27-%d0%bc%d0%b0%d1%80%d1%82%d0%b0-1933))
+
+So, very far from some kind of allurement from Atovmyan or the Soviet Union to convince Prokofiev to return, Prokofiev himself not only accepted the invitation but proactively work to estabilish his career as a composer inside the Soviet Union.
+
+One might argue (as does Morrisson) that this was an active recruitment move by the Soviet State. But, so what? Actively inviting Russia's best known artists to return to their country and offering commissions to do it doesn't imply deception. On the contrary, the timing seemed to be right: the civil war had ended, the country was reindustrializing, and the dispute between nations were intensifying. This kind of move was not uncommon: Prokofiev found the Soviet offer more appealing, but Stravinsky, one might argue, was also "lured" (by wealthy patrons) to the US, where he enjoyed a comfortable life.
+
+## Atovmyan's recollections
+
+Additionally to the letters, Morrison cites a recollection from Atovmyan about a conversation with Prokofiev during his concerts in the USSR in 1932:
+
+> I found out during the conversation that [Prokofiev] had been obliged over the course of the year to give about 100 concerts and to compose in snatches, primarily on the train. Because of this he had to get used to writing [instrumental works] as piano scores and marking the instrumentation on them. When I suggested settling in Moscow he replied: ‘You should understand that I feel constrained in one country: even if I have 4–5 concerts in Moscow, Leningrad, or supposedly Kiev, Baku, and Tbilisi—that’s the maximum I can have. I’ll die here of starvation.’ ‘You won’t die,’ I replied, ‘We’ll guarantee you commissions for creative work.’ He took an interest in these commissions and, hearing the details, said: ‘Yes, it’s worth thinking about your offer.’ (*The People's Artist*, p. 18)
+
+This account comes from unpublished texts by Atovmyan that Morrison had access to through Atovmyan's daughter. It also shows no plot to lure Prokofiev with false promises. Instead, it reveals a practical negotiation: Prokofiev's was a professional composer, and Soviet officials offered commissions to incentivize him. 
+
 ## The 1938 passport exchange: standard procedure, not a conspiracy
 
 Morrison makes a major point out of Prokofiev’s 1938 passport exchange, presenting it as a turning point where Soviet authorities revoked his ability to travel. 
@@ -121,23 +122,17 @@ Was this the culmination of a long-planned effort to trap the composer in the US
 
 - Since at least 1926, Prokofiev knew he would eventually have to surrender his [Nansen](https://en.m.wikipedia.org/wiki/Nansen_passport) passport. His January 20, 1926 [diary entry](https://archive.org/embed/2.-1919-1933.-s-sprkfv.-2002) confirms this.
 
-> He [Arnold Zukker and Lev Zeitlin, referenced by Prokofiev jokingly as a single person "Tse-Tse"], by the way, says that it was Litvinov who allowed us to be given Soviet passports, without taking away the Nansen ones. Of course, they won’t persecute me, but it’s still better that I use the latter as little as possible.
-
 > Он, между прочим, рассказывает, что это Литвинов разрешил выдать нам советские паспорта, без отбирания нансеновских. Конечно, преследовать меня не будут, но всё же лучше, чтобы я поменьше пользовался последним. (Дневник, часть 2, с. 463)
+
+> He [Arnold Zukker and Lev Zeitlin, referenced by Prokofiev jokingly as a single person "Tse-Tse"], by the way, says that it was Litvinov who allowed us to be given Soviet passports, without taking away the Nansen ones. Of course, they won’t persecute me, but it’s still better that I use the latter as little as possible.
 
 - A [Soviet decree from April 22, 1931](https://docs.historyrussia.org/ru/nodes/288301-postanovlenie-tsentralnogo-ispolnitelnogo-komiteta-sssr-i-soveta-narodnyh-komissarov-sssr-o-grazhdanstve-soyuza-ssr-22-aprelya-1931-g) disallowed dual citizenship. From that point on, any émigré who became a Soviet citizen had to surrender their foreign passport. 
 
-> 4. Foreign citizens accepted as citizens of the USSR do not enjoy the rights and do not have to fulfill the obligations associated with the citizenship of another state.
-
 > 4. Иностранные граждане, принятые в гражданство Союза ССР, не пользуются правами и не несут обязанностей, связанных с принадлежностью к гражданству другого государства.
 
-- The internal passport system – reintroduced by [a joint decree of the Central Executive Committee and Sovnarkom on December 27, 1932](https://docs.cntd.ru/document/901958829) – established the Soviet internal passport as the primary identity document for citizens in urban areas.
+> 4. Foreign citizens accepted as citizens of the USSR do not enjoy the rights and do not have to fulfill the obligations associated with the citizenship of another state.
 
-> In order to better account for the population of cities, workers' settlements and new buildings and to relieve these populated areas of people not connected with production and work in institutions or schools and not engaged in socially useful work (with the exception of the disabled and pensioners), as well as in order to clear these populated areas of hiding kulak, criminal and other antisocial elements, the Central Executive Committee and the Council of People's Commissars of the USSR decides:
-> 
-> [...]
-> 
-> 2. To introduce a single passport system with mandatory registration throughout the USSR during 1933, primarily covering the population of Moscow, Leningrad, Kharkov, Kyiv, Minsk, Rostov-on-Don and Vladivostok.
+- The internal passport system – reintroduced by [a joint decree of the Central Executive Committee and Sovnarkom on December 27, 1932](https://docs.cntd.ru/document/901958829) – established the Soviet internal passport as the primary identity document for citizens in urban areas.
 
 > В целях лучшего учета населения городов, рабочих поселков и новостроек и разгрузки этих населенных мест от лиц, не связанных с производством и работой в учреждениях или школах и не занятых общественнополезным трудом (за исключением инвалидов и пенсионеров), а также в целях очистки этих населенных мест от укрывающихся кулацких, уголовных и иных антиобщественных элементов Центральный исполнительный комитет и Совет народных комиссаров Союза ССР постановляют:
 > 
@@ -145,11 +140,17 @@ Was this the culmination of a long-planned effort to trap the composer in the US
 > 
 > 2. Ввести единую паспортную систему с обязательной пропиской по всему Союзу ССР в течение 1933 года, охватив в первую очередь население Москвы, Ленинграда, Харькова, Киева, Минска, Ростова-на-Дону и Владивостока.
 
+> In order to better account for the population of cities, workers' settlements and new buildings and to relieve these populated areas of people not connected with production and work in institutions or schools and not engaged in socially useful work (with the exception of the disabled and pensioners), as well as in order to clear these populated areas of hiding kulak, criminal and other antisocial elements, the Central Executive Committee and the Council of People's Commissars of the USSR decides:
+> 
+> [...]
+> 
+> 2. To introduce a single passport system with mandatory registration throughout the USSR during 1933, primarily covering the population of Moscow, Leningrad, Kharkov, Kyiv, Minsk, Rostov-on-Don and Vladivostok.
+
 - The first standalone [Soviet Citizenship Law of August 19, 1938](https://libussr.ru/doc_ussr/ussr_4150.htm) defined who was a Soviet citizen and, crucially, declared that persons (1) living in the USSR, (2) that dind't acquire their citizenship after this law and (3) couldn't prove their foreign citizenship would be considered *stateless*.
 
-> Article 8. Persons residing on the territory of the USSR who are not citizens of the USSR by virtue of this Law and who do not have proof of their affiliation with foreign citizenship are considered stateless persons.
-
 > Статья 8. Лица, проживающие на территории СССР, не являющиеся в силу настоящего Закона гражданами СССР и не имеющие доказательств своей принадлежности к иностранному гражданству, считаются лицами без гражданства. 
+
+> Article 8. Persons residing on the territory of the USSR who are not citizens of the USSR by virtue of this Law and who do not have proof of their affiliation with foreign citizenship are considered stateless persons.
 
 - Prokofiev chose to settle in the USSR in 1936, meaning that he voluntarily became a Soviet citizen and, like everyone else, had to follow Soviet law.
 
@@ -172,7 +173,7 @@ In summary:
 - Prokofiev was allowed to travel in and out of the USSR for over a decade.
 - He chose to settle permanently in 1936, knowing the legal consequences.
 - The surrender of his international passport in 1938 followed standard Soviet laws.
-- The loss of his foreign travel rights, in the same year, was unlikely related to a plan "lure" and trap him and likely related to the broader context of the Yezhovschshina.
+- The loss of his foreign travel rights, in the same year, was unlikely related to a plan tp "lure" and trap him and likely related to the broader context of the Yezhovschshina.
 
 The claim that Prokofiev was “lured” back under false promises is not supported by primary sources. The very documents Morrison cites indicate that Prokofiev’s move was a voluntary professional decision, shaped by commissions, artistic opportunities, and political events. The later restrictions on his travel were the result of broader Soviet legal and security measures, not a calculated trap.
 
