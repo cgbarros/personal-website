@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Communism&#34; on Caio Barros</title>
-    <link>//localhost:1313/en/tags/communism/</link>
-    <description>Recent content in Communism&#34; on Caio Barros</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Communism on Caio Barros</title>
+    <link>/en/tags/communism/</link>
+    <description>Recent content in Communism on Caio Barros</description>
+    <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/en/tags/communism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/en/tags/communism/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Was Prokofiev Lured into the Soviet Union? Examining the Evidence</title>
-      <link>//localhost:1313/en/posts/prokofievs-return/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/posts/prokofievs-return/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Last update&lt;/strong&gt; (2025-06-16): I got access to the book &lt;a href=&#34;http://old.gitis.net/izdatelstvo-gitis/publishing/item/ryadom-s-velikimi-atovmyan-i-ego-vremya&#34;&gt;&lt;em&gt;Ryadom s velikimi&lt;/em&gt;&lt;/a&gt;, edited by Nelly Kravetz, which contains the full correspondence between Prokofiev and L. Atovmyan and Antovmyan&amp;rsquo;s memoirs. I transcribed all letters between 1932 and 1936 &lt;a href=&#34;//localhost:1313/en/resources/atovmyan-prokofiev/&#34;&gt;here&lt;/a&gt; and, with that, &lt;a href=&#34;//localhost:1313/en/posts/prokofievs-return/#the-atovmyan-correspondence-no-evidence-of-deception&#34;&gt;the section on the Atovmyan-Prokofiev correponce&lt;/a&gt; was substancially changed. I&amp;rsquo;m still working on the analysis of Atovmyan&amp;rsquo;s memoirs and should have soon access to more primary evidence to complete the other sections.&lt;/p&gt;</description>
+      <title>Revisiting My Conclusion on Soviet Music Historiography</title>
+      <link>/en/posts/revisiting-soviet-music/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/en/posts/revisiting-soviet-music/</guid>
+      <description>In my PhD thesis, I conducted a content analysis of 13 books specializing in the history of Soviet music. For each book, I examined its responses to a set of key historical questions, including:
+Why were the ASM (Association for Contemporary Music) and RAPM (Russian Association of Proletarian Musicians) dissolved in 1932? Why did Prokofiev return to the USSR in 1936? Why was Shostakovich’s Lady Macbeth of Mtsensk censored, while Dzerzhinsky’s Quiet Flows the Don was praised?</description>
     </item>
   </channel>
 </rss>
