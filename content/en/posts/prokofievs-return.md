@@ -16,6 +16,7 @@ tocOpen: true
 
 **Last updates:**
 
+- 2025-06-29: I got access to the transcription of Lina Prokofiev's interview to Harvey Sachs, which Morrison uses as part of evidence of Prokofiev's supposed travel ban. [The section on Prokofiev's Travel Ban](#neviyezdnoy) was expanded and, since now it's clear that Morrison's evidence is very weak, I changed the final conclusions.
 - 2025-06-22: Completed the Analysis of Atovmyan's memoirs from [_Ryadom s velikimi_](http://old.gitis.net/izdatelstvo-gitis/publishing/item/ryadom-s-velikimi-atovmyan-i-ego-vremya). [The section on Atovmyan's memoirs](#atovmyans-memoirs-unconsidered-contradictions) was expanded and reviewed.
 - 2025-06-16: I got access to the book [_Ryadom s velikimi_](http://old.gitis.net/izdatelstvo-gitis/publishing/item/ryadom-s-velikimi-atovmyan-i-ego-vremya), edited by Nelly Kravetz, which contains the full correspondence between Prokofiev and L. Atovmyan and Antovmyan's memoirs. I transcribed all letters between 1932 and 1936 [here](/en/resources/atovmyan-prokofiev/) and, with that, [the section on the Atovmyan-Prokofiev correpondence](#the-atovmyan-prokofiev-correspondence-no-evidence-of-deception) was substancially changed. 
 
@@ -276,7 +277,7 @@ So, very far from some kind of allurement from Atovmyan or the Soviet Union to c
 
 One might argue (as does Morrisson) that this was an active recruitment move by the Soviet State. But, so what? Actively inviting Russia's best known artists to return to their country and offering commissions to do it doesn't imply deception. On the contrary, the timing seemed to be right: the civil war had ended, the country was reindustrializing, and the dispute between nations were intensifying. This kind of move was not uncommon: Prokofiev found the Soviet offer more appealing, but Stravinsky, one might argue, was also "lured" (by wealthy patrons) to the US, where he enjoyed a comfortable life.
 
-##  Was Prokofiev "Officially Declared Nevïyezdnoy"? 
+##  Was Prokofiev "Officially Declared Nevïyezdnoy"? {#neviyezdnoy} 
 
 Simon Morrison, across multiple publications, claims that Sergei Prokofiev became officially *nevïyezdnoy* (disallowed from foreign travel) in 1938. This is when, according to Morrison’s narrative, Prokofiev was finally trapped inside the Soviet Union's borders and cut off from the international artistic world to which he had once belonged.
 
