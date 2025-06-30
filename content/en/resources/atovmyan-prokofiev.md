@@ -1,7 +1,7 @@
 ---
 title: "Letters between L. Atovmyan and S. Prokofiev from 1932 to 1936"
 date: 2025-05-04
-draft: true
+draft: false
 showToc: true
 tocOpen: false
 ---

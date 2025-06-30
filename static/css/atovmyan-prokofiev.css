@@ -127,3 +127,12 @@
   gap: 50px;
   margin-bottom: var(--content-gap);
 }
+
+.quote {
+  display: flex;
+  flex-direction: column;
+}
+
+.toggle-quote-btn {
+  align-self: flex-end;
+}

@@ -1,36 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caio Barros</title>
-    <link>/en/</link>
+    <link>//localhost:1313/en/</link>
     <description>Recent content on Caio Barros</description>
-    <generator>Hugo -- 0.126.1</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Letters between L. Atovmyan and S. Prokofiev from 1932 to 1936</title>
+      <link>//localhost:1313/en/resources/atovmyan-prokofiev/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/resources/atovmyan-prokofiev/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;//localhost:1313/css/atovmyan-prokofiev.css&#34;&gt;
+&lt;h2 id=&#34;1932&#34;&gt;1932&lt;/h2&gt;
+&lt;h3 id=&#34;1-л-т-атовмьян--с-с-прокофьеву--август-1932&#34;&gt;1. Л. Т. Атовмьян — С. С. Прокофьеву — Август 1932&lt;/h3&gt;
+&lt;p class=&#34;date&#34;&gt;август 1932&lt;/p&gt;
+&lt;p&gt;Дорогой товарищ.&lt;/p&gt;
+&lt;p&gt;Горком композиторов Москвы поставлен в известность Н. Я. Мясковским, что Вы будете в СССР между 21 ноября и 5 декабря. Горком при черновой наметке программ своих симфонических концертов предолагал отвести Вашим произведениям один или два концерта, о чем проил сообщить Вам В. В. Держановского. Поскольку теперь Вами выяснены точные даты B[ашего] приезда и отъезда, Горком уже окончательно фиксирует свои концерты конца ноября и начала декабря на программы из Ваших сочинений, причем просит Вас принять в них участие в качестве солиста (имея в виду исполнение Вами 5–го и одного из предыдущих концертов). Наши концерты намечены в Большом театре, совместно с дирекцией которого они будут устроены. Окончательно место концертов будет определено по получении от Вас ответа. Предполагается, что каждый из концертов вечерних будет на другой день повторяться утром (без репетиций), чтобы удешевить концерты и сделать их более доступными широким массам. Ввиду громадного интереса к Вашему творчеству, проявляемого советской общественностью, Горком очень хотел бы организовать также 2 или хотя бы один Ваш клавирабенд3.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Was Prokofiev Lured into the Soviet Union? Examining the Evidence</title>
-      <link>/en/posts/prokofievs-return/</link>
+      <link>//localhost:1313/en/posts/prokofievs-return/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>/en/posts/prokofievs-return/</guid>
-      <description>Last updates:
-2025-06-22: Completed the Analysis of Atovmyan&amp;rsquo;s memoirs from Ryadom s velikimi. The section on Atovmyan&amp;rsquo;s memoirs was expanded and reviewed. 2025-06-16: I got access to the book Ryadom s velikimi, edited by Nelly Kravetz, which contains the full correspondence between Prokofiev and L. Atovmyan and Antovmyan&amp;rsquo;s memoirs. I transcribed all letters between 1932 and 1936 here and, with that, the section on the Atovmyan-Prokofiev correpondence was substancially changed. In early 1936, Sergei Prokofiev, one of the most celebrated composers of the 20th century, decided to leave Paris and settle in Moscow, returning to the USSR (see the timeline).</description>
+      <guid>//localhost:1313/en/posts/prokofievs-return/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;//localhost:1313/css/prokofievs-return.css&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Last updates:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2025-06-22: Completed the Analysis of Atovmyan&amp;rsquo;s memoirs from &lt;a href=&#34;http://old.gitis.net/izdatelstvo-gitis/publishing/item/ryadom-s-velikimi-atovmyan-i-ego-vremya&#34;&gt;&lt;em&gt;Ryadom s velikimi&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;//localhost:1313/en/posts/prokofievs-return/#atovmyans-memoirs-unconsidered-contradictions&#34;&gt;The section on Atovmyan&amp;rsquo;s memoirs&lt;/a&gt; was expanded and reviewed.&lt;/li&gt;
+&lt;li&gt;2025-06-16: I got access to the book &lt;a href=&#34;http://old.gitis.net/izdatelstvo-gitis/publishing/item/ryadom-s-velikimi-atovmyan-i-ego-vremya&#34;&gt;&lt;em&gt;Ryadom s velikimi&lt;/em&gt;&lt;/a&gt;, edited by Nelly Kravetz, which contains the full correspondence between Prokofiev and L. Atovmyan and Antovmyan&amp;rsquo;s memoirs. I transcribed all letters between 1932 and 1936 &lt;a href=&#34;//localhost:1313/en/resources/atovmyan-prokofiev/&#34;&gt;here&lt;/a&gt; and, with that, &lt;a href=&#34;//localhost:1313/en/posts/prokofievs-return/#the-atovmyan-prokofiev-correspondence-no-evidence-of-deception&#34;&gt;the section on the Atovmyan-Prokofiev correpondence&lt;/a&gt; was substancially changed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;In early 1936, Sergei Prokofiev, one of the most celebrated composers of the 20th century, decided to leave Paris and settle in Moscow, returning to the USSR (see the &lt;a href=&#34;//localhost:1313/en/posts/prokofievs-return/#timeline&#34;&gt;timeline&lt;/a&gt;). His return has been widely interpreted as a highly symbolic event — one that has fueled conflicting narratives. A common claim in Western scholarship is that Prokofiev was deceived into returning, only to later find himself trapped by the Soviet regime. One of the most influential works advancing this view is Simon Morrison’s &lt;a href=&#34;https://academic.oup.com/book/7869&#34;&gt;&lt;em&gt;The People&amp;rsquo;s Artist: Prokofiev’s Soviet Years&lt;/em&gt;&lt;/a&gt;. But does the historical evidence support this interpretation?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Revisiting My Conclusion on Soviet Music Historiography</title>
-      <link>/en/posts/revisiting-soviet-music/</link>
+      <link>//localhost:1313/en/posts/revisiting-soviet-music/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>/en/posts/revisiting-soviet-music/</guid>
-      <description>In my PhD thesis, I conducted a content analysis of 13 books specializing in the history of Soviet music. For each book, I examined its responses to a set of key historical questions, including:
-Why were the ASM (Association for Contemporary Music) and RAPM (Russian Association of Proletarian Musicians) dissolved in 1932? Why did Prokofiev return to the USSR in 1936? Why was Shostakovich’s Lady Macbeth of Mtsensk censored, while Dzerzhinsky’s Quiet Flows the Don was praised?</description>
+      <guid>//localhost:1313/en/posts/revisiting-soviet-music/</guid>
+      <description>&lt;p&gt;In &lt;a href=&#34;//localhost:1313/en/posts/revisiting-soviet-music/tese.pdf&#34;&gt;my PhD thesis&lt;/a&gt;, I conducted a content analysis of 13 books specializing in the history of Soviet music. For each book, I examined its responses to a set of key historical questions, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why were the &lt;a href=&#34;https://en.wikipedia.org/wiki/Association_for_Contemporary_Music&#34;&gt;ASM (Association for Contemporary Music)&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Russian_Association_of_Proletarian_Musicians&#34;&gt;RAPM (Russian Association of Proletarian Musicians)&lt;/a&gt; dissolved in 1932?&lt;/li&gt;
+&lt;li&gt;Why did &lt;a href=&#34;https://en.wikipedia.org/wiki/Sergei_Prokofiev#Return_to_Russia&#34;&gt;Prokofiev return to the USSR in 1936&lt;/a&gt;?&lt;/li&gt;
+&lt;li&gt;Why was &lt;a href=&#34;https://en.wikipedia.org/wiki/Dmitri_Shostakovich#First_denunciation&#34;&gt;Shostakovich’s &lt;em&gt;Lady Macbeth of Mtsensk&lt;/em&gt; censored, while Dzerzhinsky’s &lt;em&gt;Quiet Flows the Don&lt;/em&gt; was praised&lt;/a&gt;?&lt;/li&gt;
+&lt;li&gt;Why was &lt;a href=&#34;https://en.wikipedia.org/wiki/Dmitri_Shostakovich#First_denunciation&#34;&gt;the premiere of Shostakovich’s &lt;em&gt;Fourth Symphony&lt;/em&gt; canceled&lt;/a&gt;?&lt;/li&gt;
+&lt;li&gt;Why was &lt;a href=&#34;https://en.wikipedia.org/wiki/Dmitri_Shostakovich#First_denunciation&#34;&gt;&lt;em&gt;Shostakovich’s Fifth Symphony&lt;/em&gt; acclaimed&lt;/a&gt;?&lt;/li&gt;
+&lt;li&gt;Why did the debate over &lt;em&gt;formalism&lt;/em&gt; end when World War II broke out in 1941?&lt;/li&gt;
+&lt;li&gt;Why was Muradeli’s &lt;em&gt;The Great Friendship&lt;/em&gt; censored? &lt;a href=&#34;https://www.marxists.org/subject/art/lit_crit/zhdanov/lit-music-philosophy.htm#s3&#34;&gt;What were Zhdanov’s objectives in organizing the first Composers’ Congress&lt;/a&gt;?&lt;/li&gt;
+&lt;li&gt;Why did Shostakovich agree &lt;a href=&#34;https://en.wikipedia.org/wiki/Dmitri_Shostakovich#Second_denunciation&#34;&gt;to travel to New York in 1949 and deliver his speech&lt;/a&gt;?&lt;/li&gt;
+&lt;li&gt;Why were the operas &lt;em&gt;Heart and Soul&lt;/em&gt; (Zhukovsky) and &lt;em&gt;Bogdan Khmelnitsky&lt;/em&gt; (Dankevich) first praised and then later banned&lt;a href=&#34;https://mus.academy/articles/neudachnaya-opera&#34;&gt;1&lt;/a&gt;,&lt;a href=&#34;https://mus.academy/articles/ob-opere-bogdan-khmelnitskii&#34;&gt;2&lt;/a&gt;?&lt;/li&gt;
+&lt;li&gt;What was the significance of the 1958 document &lt;a href=&#34;http://yury.gorodok.net/ob.html&#34;&gt;&lt;em&gt;On Rectifying Errors in the Evaluation of the Operas The Great Friendship, Bogdan Khmelnitsky, and From All One’s Heart&lt;/em&gt;&lt;/a&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;my-original-conclusion-soviet-musicology--individualist&#34;&gt;My original conclusion: soviet musicology = individualist&lt;/h2&gt;
+&lt;p&gt;I found that all these works shared a common assumption: that Soviet music was inherently conservative and lagged behind the historical development of Western European avant-garde music.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Automated Egg Boiler</title>
-      <link>/en/posts/auto-egg-boiler/</link>
+      <link>//localhost:1313/en/posts/auto-egg-boiler/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/en/posts/auto-egg-boiler/</guid>
-      <description>My wife gave me this awesome electric egg boiler in Christmas 2021. It&amp;rsquo;s very simple: add some water to the plate, add the eggs using the support, cover it, turn it on, and wait.
-The boiler will heat the water and turn off automatically when the water finishes evaporating. It&amp;rsquo;s just a thermal switch: it turns off because the plate gets hotter once the water is not there anymore. The problem is that although it turns off, it doesn&amp;rsquo;t flip the on/off switch, like, say, those electric kettles.</description>
+      <guid>//localhost:1313/en/posts/auto-egg-boiler/</guid>
+      <description>&lt;p&gt;My wife gave me this awesome electric egg boiler in Christmas 2021. It&amp;rsquo;s very simple: add some water to the plate, add the eggs using the support, cover it, turn it on, and wait.&lt;/p&gt;
+&lt;p&gt;The boiler will heat the water and turn off automatically when the water finishes evaporating. It&amp;rsquo;s just a thermal switch: it turns off because the plate gets hotter once the water is not there anymore. The problem is that although it turns off, it doesn&amp;rsquo;t flip the on/off switch, like, say, those electric kettles. So, if you don&amp;rsquo;t manually push the switch, it keeps turning on and off as the temperature rises and falls.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Growing interest in Soviet Music History</title>
+      <link>//localhost:1313/en/posts/soviet-music-in-2024/</link>
+      <pubDate>Tue, 13 Feb 2024 18:18:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/soviet-music-in-2024/</guid>
+      <description>&lt;p&gt;When I was preparing my phd analysing books on soviet music history, it was important to know if this subject was still relevant in musicology punlications. Of course as a theme it will never be exhausted, but if it is considered obsolet and there is jo debate, there is no point in polemicizing.&lt;/p&gt;
+&lt;p&gt;Besides knowing some books and searching for publications online, The first point of data that I came across was &lt;a href=&#34;https://books.google.com/ngrams/&#34;&gt;Google&amp;rsquo;s Ngram Viewer&lt;/a&gt;. I won&amp;rsquo;t go into detail on what an n-gram is and what the viewer&amp;rsquo;s numbers mean, but, basically, this tool will show you the frequency of a keyword in a subset of Google Books texts through time..&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

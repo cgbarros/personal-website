@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filosofia on Caio Barros</title>
-    <link>/pt-br/tags/filosofia/</link>
+    <link>//localhost:1313/pt-br/tags/filosofia/</link>
     <description>Recent content in Filosofia on Caio Barros</description>
-    <generator>Hugo -- 0.126.1</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/pt-br/tags/filosofia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/pt-br/tags/filosofia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uma introdução ao materialismo</title>
-      <link>/pt-br/posts/materialismo/</link>
+      <link>//localhost:1313/pt-br/posts/materialismo/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/pt-br/posts/materialismo/</guid>
-      <description>Essa é a primeira de três partes de uma série sobre materialismo dialético. A série se divide em (1) Materialismo, (2) Dialética e (3) Materialismo dialético.
-O Materialismo é a filosofia que afirma que a realidade objetiva, é a base de tudo que existe, independentemente da consciência. Materialismo é uma forma de entender o mundo que coloca tudo o que existe independentemente da consciência humana como a base da realidade. Isso significa que todas as coisas, incluindo pensamentos, sentimentos e ideias, têm uma origem fora da mente humana, no mundo físico.</description>
+      <guid>//localhost:1313/pt-br/posts/materialismo/</guid>
+      <description>&lt;p&gt;Essa é a primeira de três partes de uma série sobre materialismo dialético. A série se divide em (1) Materialismo, (2) Dialética e (3) Materialismo dialético.&lt;/p&gt;
+&lt;h2 id=&#34;o-materialismo-é-a-filosofia-que-afirma-que-a-realidade-objetiva-é-a-base-de-tudo-que-existe-independentemente-da-consciência&#34;&gt;O Materialismo é a filosofia que afirma que a realidade objetiva, é a base de tudo que existe, independentemente da consciência.&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Materialismo&lt;/strong&gt; é uma forma de entender o mundo que coloca &lt;strong&gt;tudo o que existe independentemente da consciência humana&lt;/strong&gt; como a base da realidade. Isso significa que todas as coisas, incluindo pensamentos, sentimentos e ideias, têm uma origem fora da mente humana, no mundo físico. Diferente do idealismo, que acredita que a mente ou as ideias são a base de tudo, o materialismo se concentra nas coisas concretas e tangíveis que existem fora da nossa percepção.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
