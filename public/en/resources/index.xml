@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Resources on Caio Barros</title>
-    <link>//localhost:1313/en/resources/</link>
+    <link>/en/resources/</link>
     <description>Recent content in Resources on Caio Barros</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/en/resources/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/en/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Letters between L. Atovmyan and S. Prokofiev from 1932 to 1936</title>
-      <link>//localhost:1313/en/resources/atovmyan-prokofiev/</link>
+      <link>/en/resources/atovmyan-prokofiev/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/resources/atovmyan-prokofiev/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;//localhost:1313/css/atovmyan-prokofiev.css&#34;&gt;
-&lt;h2 id=&#34;1932&#34;&gt;1932&lt;/h2&gt;
-&lt;h3 id=&#34;1-л-т-атовмьян--с-с-прокофьеву--август-1932&#34;&gt;1. Л. Т. Атовмьян — С. С. Прокофьеву — Август 1932&lt;/h3&gt;
-&lt;p class=&#34;date&#34;&gt;август 1932&lt;/p&gt;
-&lt;p&gt;Дорогой товарищ.&lt;/p&gt;
-&lt;p&gt;Горком композиторов Москвы поставлен в известность Н. Я. Мясковским, что Вы будете в СССР между 21 ноября и 5 декабря. Горком при черновой наметке программ своих симфонических концертов предолагал отвести Вашим произведениям один или два концерта, о чем проил сообщить Вам В. В. Держановского. Поскольку теперь Вами выяснены точные даты B[ашего] приезда и отъезда, Горком уже окончательно фиксирует свои концерты конца ноября и начала декабря на программы из Ваших сочинений, причем просит Вас принять в них участие в качестве солиста (имея в виду исполнение Вами 5–го и одного из предыдущих концертов). Наши концерты намечены в Большом театре, совместно с дирекцией которого они будут устроены. Окончательно место концертов будет определено по получении от Вас ответа. Предполагается, что каждый из концертов вечерних будет на другой день повторяться утром (без репетиций), чтобы удешевить концерты и сделать их более доступными широким массам. Ввиду громадного интереса к Вашему творчеству, проявляемого советской общественностью, Горком очень хотел бы организовать также 2 или хотя бы один Ваш клавирабенд3.&lt;/p&gt;</description>
+      <guid>/en/resources/atovmyan-prokofiev/</guid>
+      <description>1932 1. Л. Т. Атовмьян — С. С. Прокофьеву — Август 1932 август 1932
+Дорогой товарищ.
+Горком композиторов Москвы поставлен в известность Н. Я. Мясковским, что Вы будете в СССР между 21 ноября и 5 декабря. Горком при черновой наметке программ своих симфонических концертов предолагал отвести Вашим произведениям один или два концерта, о чем проил сообщить Вам В. В. Держановского. Поскольку теперь Вами выяснены точные даты B[ашего] приезда и отъезда, Горком уже окончательно фиксирует свои концерты конца ноября и начала декабря на программы из Ваших сочинений, причем просит Вас принять в них участие в качестве солиста (имея в виду исполнение Вами 5–го и одного из предыдущих концертов).</description>
     </item>
   </channel>
 </rss>

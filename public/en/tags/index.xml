@@ -1,81 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Caio Barros</title>
-    <link>//localhost:1313/en/tags/</link>
+    <link>/en/tags/</link>
     <description>Recent content in Tags on Caio Barros</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Communism&#34;</title>
-      <link>//localhost:1313/en/tags/communism/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/tags/communism/</guid>
+      <link>/en/tags/communism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/tags/communism/</guid>
       <description></description>
     </item>
     <item>
       <title>Prokofiev</title>
-      <link>//localhost:1313/en/tags/prokofiev/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/tags/prokofiev/</guid>
+      <link>/en/tags/prokofiev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/tags/prokofiev/</guid>
       <description></description>
     </item>
     <item>
       <title>Soviet Music</title>
-      <link>//localhost:1313/en/tags/soviet-music/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/tags/soviet-music/</guid>
+      <link>/en/tags/soviet-music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/tags/soviet-music/</guid>
       <description></description>
     </item>
     <item>
       <title>Communism</title>
-      <link>//localhost:1313/en/tags/communism/</link>
-      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/tags/communism/</guid>
+      <link>/en/tags/communism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/tags/communism/</guid>
       <description></description>
     </item>
     <item>
       <title>Socialist Realism</title>
-      <link>//localhost:1313/en/tags/socialist-realism/</link>
-      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/tags/socialist-realism/</guid>
+      <link>/en/tags/socialist-realism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/tags/socialist-realism/</guid>
       <description></description>
     </item>
     <item>
       <title>Fun</title>
-      <link>//localhost:1313/en/tags/fun/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/tags/fun/</guid>
+      <link>/en/tags/fun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/tags/fun/</guid>
       <description></description>
     </item>
     <item>
       <title>Hacking</title>
-      <link>//localhost:1313/en/tags/hacking/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/tags/hacking/</guid>
+      <link>/en/tags/hacking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/tags/hacking/</guid>
       <description></description>
     </item>
     <item>
       <title>Weekend Projects</title>
-      <link>//localhost:1313/en/tags/weekend-projects/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/tags/weekend-projects/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Analysis</title>
-      <link>//localhost:1313/en/tags/data-analysis/</link>
-      <pubDate>Tue, 13 Feb 2024 18:18:00 +0000</pubDate>
-      <guid>//localhost:1313/en/tags/data-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music</title>
-      <link>//localhost:1313/en/tags/music/</link>
-      <pubDate>Tue, 13 Feb 2024 18:18:00 +0000</pubDate>
-      <guid>//localhost:1313/en/tags/music/</guid>
+      <link>/en/tags/weekend-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/tags/weekend-projects/</guid>
       <description></description>
     </item>
   </channel>

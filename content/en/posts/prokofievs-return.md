@@ -16,6 +16,7 @@ tocOpen: true
 
 **Last updates:**
 
+- 2025-07-05: Style and grammar review.
 - 2025-06-29: I got access to the transcription of Lina Prokofiev's interview to Harvey Sachs, which Morrison uses as part of evidence of Prokofiev's supposed travel ban. [The section on Prokofiev's Travel Ban](#neviyezdnoy) was expanded and, since now it's clear that Morrison's evidence is very weak, I changed the final conclusions.
 - 2025-06-22: Completed the Analysis of Atovmyan's memoirs from [_Ryadom s velikimi_](http://old.gitis.net/izdatelstvo-gitis/publishing/item/ryadom-s-velikimi-atovmyan-i-ego-vremya). [The section on Atovmyan's memoirs](#atovmyans-memoirs-unconsidered-contradictions) was expanded and reviewed.
 - 2025-06-16: I got access to the book [_Ryadom s velikimi_](http://old.gitis.net/izdatelstvo-gitis/publishing/item/ryadom-s-velikimi-atovmyan-i-ego-vremya), edited by Nelly Kravetz, which contains the full correspondence between Prokofiev and L. Atovmyan and Antovmyan's memoirs. I transcribed all letters between 1932 and 1936 [here](/en/resources/atovmyan-prokofiev/) and, with that, [the section on the Atovmyan-Prokofiev correpondence](#the-atovmyan-prokofiev-correspondence-no-evidence-of-deception) was substancially changed. 

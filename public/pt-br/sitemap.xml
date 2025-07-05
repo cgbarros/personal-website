@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/pt-br/</loc>
+    <loc>/pt-br/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="//localhost:1313/pt-br/"
+                href="/pt-br/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/comunismo/</loc>
+    <loc>/pt-br/tags/comunismo/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/filosofia/</loc>
+    <loc>/pt-br/tags/filosofia/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/posts/</loc>
+    <loc>/pt-br/posts/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/posts/"
+                href="/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="//localhost:1313/pt-br/posts/"
+                href="/pt-br/posts/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/</loc>
+    <loc>/pt-br/tags/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="//localhost:1313/pt-br/tags/"
+                href="/pt-br/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/posts/materialismo/</loc>
+    <loc>/pt-br/posts/materialismo/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/posts/guerra-cultural-palestina/</loc>
+    <loc>/pt-br/posts/guerra-cultural-palestina/</loc>
     <lastmod>2024-02-20T13:58:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/cultura/</loc>
+    <loc>/pt-br/tags/cultura/</loc>
     <lastmod>2024-02-20T13:58:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/categories/</loc>
+    <loc>/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="//localhost:1313/pt-br/categories/"
+                href="/pt-br/categories/"
                 />
   </url>
 </urlset>

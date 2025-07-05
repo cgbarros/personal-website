@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cultura on Caio Barros</title>
-    <link>//localhost:1313/pt-br/tags/cultura/</link>
+    <link>/pt-br/tags/cultura/</link>
     <description>Recent content in Cultura on Caio Barros</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.126.1</generator>
     <language>pt-BR</language>
     <lastBuildDate>Tue, 20 Feb 2024 13:58:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/pt-br/tags/cultura/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/pt-br/tags/cultura/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Pilhagem Cultural da Palestina</title>
-      <link>//localhost:1313/pt-br/posts/guerra-cultural-palestina/</link>
+      <link>/pt-br/posts/guerra-cultural-palestina/</link>
       <pubDate>Tue, 20 Feb 2024 13:58:00 +0000</pubDate>
-      <guid>//localhost:1313/pt-br/posts/guerra-cultural-palestina/</guid>
-      <description>&lt;h2 id=&#34;a-dominação-imperialista-ocorre-também-no-campo-cultural&#34;&gt;A dominação imperialista ocorre também no campo cultural&lt;/h2&gt;
-&lt;p&gt;Como se sabe, a base da dominação imperialista de um país sobre o outro é a dominação econômica. Ela se fundamenta na exportação de capital dos países imperialistas para as colônias e semicolônias através do domínio do capital financeiro.&lt;/p&gt;
-&lt;p&gt;Suas consequências no plano econômico são o impedimento do desenvolvimento industrial dos países dominados, a permanência e em alguns casos até prevalência de relações de produção pré-capitalistas, o domínio das classes burguesas compradoras e burocráticas. As consequências políticas também são conhecidas: guerras de dominação, golpes de Estado, controle do processo eleitoral, quando o há. Existe, também (e este é o ponto que nos interessa), consequências culturais.&lt;/p&gt;</description>
+      <guid>/pt-br/posts/guerra-cultural-palestina/</guid>
+      <description>A dominação imperialista ocorre também no campo cultural Como se sabe, a base da dominação imperialista de um país sobre o outro é a dominação econômica. Ela se fundamenta na exportação de capital dos países imperialistas para as colônias e semicolônias através do domínio do capital financeiro.
+Suas consequências no plano econômico são o impedimento do desenvolvimento industrial dos países dominados, a permanência e em alguns casos até prevalência de relações de produção pré-capitalistas, o domínio das classes burguesas compradoras e burocráticas.</description>
     </item>
   </channel>
 </rss>
