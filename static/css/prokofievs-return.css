@@ -1,0 +1,12 @@
+.quote {
+  display: flex;
+  flex-direction: column;
+}
+
+.toggle-quote-btn {
+    align-self: flex-end;
+    border: 1px solid;
+    padding: 0px 3px;
+    font-size: 0.9em;
+    border-radius: 10px;
+}
