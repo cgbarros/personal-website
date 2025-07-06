@@ -13,6 +13,7 @@ tocOpen: true
 ---
 
 <link rel="stylesheet" type="text/css" href="/css/prokofievs-return.css">
+<link rel="stylesheet" type="text/css" href="/css/atovmyan-prokofiev.css">
 
 **Last updates:**
 
@@ -29,7 +30,7 @@ Morrison presents a narrative in which Sergei Prokofiev was "lured" back into th
 
 > The reasons for his relocation are complicated and, in their own way, frightening. It emerges that the steel-willed composer never intended to remain in the Soviet Union. The regime needed celebrities, and he was lured into becoming one of them on the promise that nothing would change in his international career and that Moscow would simply replace Paris as the center of his operations. (*The People's Artist*, p. 3)
 
-I examine Morrison’s sources—in particular, the **1925 invitation letter from Nadezhda Bryusova**, the **letters between Prokofiev and Levon Atovmyan between 1933 and 1934**, **Atovmyan's recollections**, and **Prokofiev's loss of travelling permissions in 1938**. The available evidence shows that Morrison's story doesn’t hold up.
+I examine Morrison’s sources—in particular, the **1925 invitation letter from Nadezhda Bryusova**, the **letters between Prokofiev and Levon Atovmyan between 1933 and 1936**, **Atovmyan's recollections**, and **Prokofiev's loss of travelling permissions in 1938**. The available evidence shows that Morrison's story doesn’t hold up.
 
 ## The 1925 Invitation: A Promise Fulfilled, Not Betrayed
 
@@ -56,9 +57,9 @@ In 1925, Nadezhda Bryusova, writing on behalf of Anatoly Lunacharsky, invited th
 
 Morrison frames this as a false promise, suggesting that Soviet authorities later violated it by revoking Prokofiev’s travel rights. But this is misleading for several reasons:
 
-1. Prokofiev did, in fact, [travel freely](#timeline) in and out of the USSR between 1927 and 1938. The Soviet government honoured the guarantee for over a decade.
+1. Prokofiev did, in fact, [travel freely](#timeline) in and out of the USSR between 1927 and 1938. The Soviet government honoured the guarantee for at least a decade.
 2. He was not “lured” to the USSR; he willingly moved there permanently in 1936.
-3. When he lost his foreign travel rights, it was under circumstances that applied to all Soviet citizens, not as part of a secret plot against him.
+3. [As I will show](#passport-exchange), when Prokofiev had to surrender his international passport, it was under circumstances that applied to all Soviet citizens, not as part of a secret plot against him.
 
 ## Atovmyan’s Memoirs: Contradictions Morrison Overlooks
 
@@ -70,7 +71,7 @@ While Morrison is right to highlight the importance of these memoirs in reconstr
 
 The memoirs are divided into four parts, and only the first part concerns the period leading up to 1940—before Prokofiev made the final decision to resettle in the USSR. Within this first section, three entries relate directly to Prokofiev’s return:
 
-- **Section 5: Concerts of Soviet Music** (Кончерты советской музыки)—early 1932.
+- **Section 5: Concerts of Soviet Music** (Концерты советской музыки)—early 1932.
 - **Section 7: S. Prokofiev** (С. Прокофьев)—August 1932, first visit to USSR.
 - **Section 12: S. Prokofiev in Moscow** (С. Прокофьев в Москве)—April–June 1933, fourth Soviet tour.
 
@@ -100,10 +101,10 @@ At a lunch attended by Prokofiev, Myaskovsky, Derzhavinsky, and Atovmyan, Prokof
   <button class="toggle-quote-btn" onclick="toggleQuote(this)">EN / RU</button>
   <blockquote class="quote-toggle">
     <div class="quote-lang quote-ru" style="display: none;">
-      Пришел я к с. прокофьеву с пятнадцатиминутным опозданием; он встретил меня не так любезно, как раньше: «и что за проклятая привычка у москвичей вечно опаздывать. ведь я просил вас прибыть к 4 часам». я увидел уже сидевших за столом н. мясковского и в. держановского, извинился, сославшись на совещание, и сел за стол (который уже был накрыт к обеду). как известно, с. прокофьев отличался исключительной пунктуальностью, всегда придирался к малейшим опозданиям, но при этом был весьма обязательным человеком: если он обещает, то наверняка можно быть уверенным, что он выполнит свое обещание, чего бы ему это ни стоило. такого же отношения он требовал и от окружающих. в этот день говорили о делах с. прокофьева; в разговоре я узнал, что в год он вынужден порой давать по 100 концертов, сочиняет урывками, преимущественно в поезде (откуда и появилась необходимость и привычка писать клавиры и на них делать разметку инструментовки). на мое предложение поселиться в москве он ответил: «поймите, мне тесно в одной стране: ну даже по 4-5 концертов в москве, ленинграде, предположим, в киеве, баку, тифлисе—вот и все возможности. я же подохну с голода».—«не подохнете, сергей сергеевич»,—ответил я,—вался этими договорами и, узнав об их назначении, сказал: «да, над вашим предложением стоит подумать». тут веское слово сказали н. мясковский (как мы его называли по-дружески, «няма») и в. держановский. (<em>Рядом с великими</em>, с. 216-217)
+      Пришёл я к С. Прокофьеву с пятнадцатиминутным опозданием; он встретил меня не так любезно, как раньше: «И что за проклятая привычка у москвичей вечно опаздывать? Ведь я просил вас прибыть к 4 часам». Я увидел уже сидевших за столом Н. Мясковского и В. Держановского, извинился, сославшись на совещание, и сел за стол (который уже был накрыт к обеду). Как известно, С. Прокофьев отличался исключительной пунктуальностью, всегда придирался к малейшим опозданиям, но при этом был весьма обязательным человеком: если он обещает, то наверняка можно быть уверенным, что он выполнит своё обещание, чего бы ему это ни стоило. Такого же отношения он требовал и от окружающих. В этот день говорили о делах С. Прокофьева; в разговоре я узнал, что в год он вынужден порой давать по 100 концертов, сочиняет урывками, преимущественно в поезде (откуда и появилась необходимость и привычка писать клавиры и на них делать разметку инструментовки). На моё предложение поселиться в Москве он ответил: «Поймите, мне тесно в одной стране: ну даже по 4–5 концертов в Москве, Ленинграде, предположим, в Киеве, Баку, Тифлисе — вот и все возможности. Я же подохну с голода». — «Не подохнете, Сергей Сергеевич, — ответил я, — мы вас обеспечим творческими договорами». Он поинтересовался этими договорами и, узнав об их назначении, сказал: «Да, над вашим предложением стоит подумать». Тут веское слово сказали Н. Мясковский (как мы его называли по-дружески, «Няма») и В. Держановский. (<em>Рядом с великими</em>, с. 216-217)
     </div>
     <div class="quote-lang quote-en">
-      I arrived to see Prokofiev fifteen minutes late; he did not greet me as kindly as before: "What a damned habit you Muscovites have of always being late. I asked you to arrive at 4 o'clock." I saw that Myaskovsky and Derzhavinsky were already sitting at the table, apologised, citing a meeting, and sat down at the table (which was already set for lunch). As is known, Prokofiev was exceptionally punctual, always criticised the slightest delays, but at the same time was a very responsible person: if he promised something, you could be sure he would fulfil it, no matter the cost. He demanded the same from others. That day, we discussed Prokofiev’s activities; I learned in the conversation that he sometimes had to give up to 100 concerts a year and composed in fragments, mainly on the train (hence the habit and necessity of writing piano reductions and marking orchestration directly on them). When I suggested he move to Moscow, he replied, "You must understand, one country is too small for me. Even 4–5 concerts in Moscow, Leningrad, say, in Kiev, Baku, and Tiflis—that’s all the possibilities. I’ll starve to death."—"You won’t starve, Sergei Sergeyevich," I replied. He weighed the contracts and, having learned their terms, said, "Yes, your proposal is worth considering." At that point, strong words of support came from Myaskovsky (whom we affectionately called "Nyama") and Derzhavinsky. (<em>Ryadom s velikimi</em>, pp. 216–217)
+      I arrived to see Prokofiev fifteen minutes late; he did not greet me as kindly as before: "What a damned habit you Muscovites have of always being late. I asked you to arrive at 4 o'clock." I saw that N. Myaskovsky and V. Derzhavinsky were already sitting at the table, apologised, citing a meeting, and sat down at the table (which was already set for lunch). As is known, Prokofiev was exceptionally punctual, always criticised the slightest delays, but at the same time was a very responsible person: if he promised something, you could be sure he would fulfil it, no matter the cost. He demanded the same from others. That day, we discussed Prokofiev’s activities; I learned in the conversation that he sometimes had to give up to 100 concerts a year and composed in fragments, mainly on the train (hence the habit and necessity of writing piano reductions and marking orchestration directly on them). When I suggested he move to Moscow, he replied, "You must understand, one country is too small for me. Even 4–5 concerts in Moscow, Leningrad, say, in Kiev, Baku, and Tiflis—that’s all the possibilities. I’ll starve to death."—"You won’t starve, Sergei Sergeyevich," I replied. ‘we’ll provide you with creative contracts’. He inquired about these contracts and, having learned what they entailed, said, ‘Yes, your proposal is worth considering.’ At that point, strong words of support came from N. Myaskovsky (whom we affectionately called *Nyama*) and V. Derzhavinsky. (<em>Ryadom s velikimi</em>, pp. 216–217)
     </div>
   </blockquote>
 </div>
@@ -127,7 +128,7 @@ Atovmyan offered Prokofiev a portfolio of Soviet compositions to promote abroad.
         <p>I visited Prokofiev at his request and, with his consent, brought a selection (in fact, quite a large number) of published works by Soviet composers for his review and potential recommendation to foreign performance organisations. He carefully looked through the scores and rejected many with the words: "What is this trash you’re giving me? These works are worthless, and no one will perform them." At the same time, he asked me to get him the three-volume collection of works by V. I. Lenin, which I gladly promised to buy and send to him in Paris. However, I couldn’t obtain it, as the entire print run had already sold out, which I reported back to him. Naturally, I got a scolding: "I’ll never believe that it’s impossible to find Lenin’s three-volume set in the Soviet Union. Chalk it up to your incompetence."</p>
         <p>In the evening, before Prokofiev’s departure, we met in his hotel room. Besides Prokofiev, N. Myaskovsky, V. Shebalin, V. Derzhavinsky, and I were present. We drank coffee with pastries. Prokofiev was in great spirits. He had received many offers from the theatre, the cinema, and other cultural institutions, and told us: "I’m convinced that the Soviet Union offers excellent opportunities for creative work. Perhaps I really don’t need to keep torturing myself with endless travel and concerts in various countries."</p>
         <p>[...]</p>
-        <p>The move from the hotel to the new apartment on Chkalovskaya Street took place after I had left (he declined the offer of a mansion: "It’s not within my means"). (<em>Ryadom s velikimi</em>, pp. 231–232)</p>
+        <p>The move from the hotel to the new apartment on Chkalovskaya Street took place after I had left (he declined the offer of a detached house: "It’s not within my means"). (<em>Ryadom s velikimi</em>, pp. 231–232)</p>
     </div>
   </blockquote>
 </div>
@@ -174,6 +175,50 @@ Morrison himself published the English translation of the correspondence between
 
 Thanks to Nelly Kravetz again, we now have access to the full Atovmyan–Prokofiev correspondence, published in the same book—*Ryadom s velikimi* (2012). I have transcribed all the letters between 1932 and 1936 and made them available [here](/en/resources/atovmyan-prokofiev/).
 
+The [4 May 1933](/en/resources/atovmyan-prokofiev/#16-л-т-атовмьян--с-с-прокофьеву--4-мая-1933) letter mentioned by Morrison is one of the letters at th Serge Prokofiev Foundation Archive. It’s a small letter with logistic and payment details of his at the time ongoing stay in the Soviet Union.
+
+<div class="quote">
+  <button class="toggle-quote-btn" onclick="toggleQuote(this)">EN / RU</button>
+  <blockquote class="quote-toggle">
+    <div class="quote-lang quote-ru" style="display: none;">
+      <p>Дорогой Сергей Сергеевич!</p>
+      <ol>
+        <li>До меня дошли слухи, что Вам нужны деньги. Прошу передать подательнице сего чек на нужную Вам сумму, она получит деньги и принесет Вам (чек на предъявителя).</li>
+        <li>6–го мая Вас ГАБТ ждет на юбилее Неждановой. Вход для гостей через подъезд №18 (ложа дирекции).</li>
+        <li>Поезд в Тифлис (Владикавказ) отходит 8/V в 15 ч[асов] 30 м[инут], 2 билета заказано.<br>
+        В Владикавказе есть хорошая гостиница. Помимо автобуса идут по В[оенно]-Груз[инской] дороге машины. Заказать их на месте легко.</li>
+        <li>Сегодня в 6 час[ов] на президиуме Союза сов[етских] композиторов Ваше сообщение.</li>
+      </ol>
+      <p>Заседание Президиума в консерватории (кабинет ректора). (<a href="/en/resources/atovmyan-prokofiev/#16-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--4-%D0%BC%D0%B0%D1%8F-1933" target="_blank">Letter 16, Atovmyan to Prokofiev, May 4, 1933</a>)</p>
+    </div>
+    <div class="quote-lang quote-en">
+      <p>Dear Sergei Sergeyevich!</p>
+      <ol>
+        <li>I’ve heard rumours that you need money. Please hand the bearer of this note a cheque for the amount you need. She will cash it and bring you the money (the cheque is to bearer).</li>
+        <li>On 6 May, GABT  [The Bolshoi Theatre] awaits you at Nezhdanova’s jubilee. Entrance for guests is through entrance no. 18 (directorate box).</li>
+        <li>The train to Tiflis (Vladikavkaz) departs on 8 May at 15:30. Two tickets have been reserved.<br>
+      ers a good hotel in Vladikavkaz. In addition to the bus, there are also cars that travel the Georgian Military Highway. They are easy to arrange locally.</li>
+        <li>Today at 6 p.m. your report will be read at the Presidium of the Union of Soviet Composers.</l >
+      </ol>
+      <p>The Presidium meeting will be held at the Conservatory (Rector’s office). (<a href="/en/resources/atovmyan-prokofiev/#16-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--4-%D0%BC%D0%B0%D1%8F-1933" target="_blank">Letter 16, Atovmyan to Prokofiev, May 4, 1933</a>)</p>
+    </div>
+  </blockquote>
+</div>
+
+Although this letter indeed demonstrates Atovmyan’s logistic efforts, perhaps Morrison had in mind the letter from March 31, 1933, where Atovmyan details the dates of all concerts, talks and some of the rest days scheduled for Prokofiev’s visit.
+
+<div class="quote">
+  <button class="toggle-quote-btn" onclick="toggleQuote(this)">EN / RU</button>
+  <blockquote class="quote-toggle">
+    <div class="quote-lang quote-ru" style="display: none;">
+<p>Выяснились почти окончательно даты первых концертов [...] Приезжаете Вы, судя по Вашей программе, 14/IV. Мы наметили 15 и 17 апреля две беседы Ваши по вопросам музыкальной технологии с композиторской молодежью, окончившей консерваторию [...] . Как видите, время Ваше загружено полностью, и как я ни пытался максимально разгрузить ничего не получается. Что касается материальных вопросов о них я умышленно ни с кем не говорил еще, ожидая Вашего приезда или Ваших инструкций. Эти вопросы решаются чрезвычайно быстро и легко [...] Я только очень буду Вас просить сообщить мне заранее телеграммой, когда Вы приедете, чтоб я мог заранее забронировать Вам тот же номер в гостинице и встретить Вас. Разрешение всех остальных вопросов откладываю до приятной встречи с Вами. (<a href="http://localhost:1313/en/resources/atovmyan-prokofiev/#14-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--31-%D0%BC%D0%B0%D1%80%D1%82%D0%B0-1933" target="_blank">Letter 14, Atovmyan to Prokofiev, March 31, 1933</a>)</p>
+    </div>
+    <div class="quote-lang quote-en">
+      <p>The dates of the first concerts have almost been finalised [...] [here follows a series of concert dates and places] [...] According to your plan, you will arrive on 14 April. We have scheduled two discussions for 15 and 17 April with young composers who have finished conservatory training, on topics of musical technique. [...] As you can see, your schedule is completely full, and despite my efforts to lighten it, I’ve been unsuccessful. As for financial matters—I have intentionally not discussed them with anyone yet, as I await your arrival or instructions. These matters are resolved very quickly and easily [...] I only ask that you send me a telegram in advance indicating your arrival date, so that I can reserve the same hotel room and meet you at the station. All remaining matters I postpone until the pleasant moment of your arrival. (<a href="http://localhost:1313/en/resources/atovmyan-prokofiev/#14-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--31-%D0%BC%D0%B0%D1%80%D1%82%D0%B0-1933" target="_blank">Letter 14, Atovmyan to Prokofiev, March 31, 1933</a>)</p>
+    </div>
+  </blockquote>
+</div>
+
 The [three letters](#letters) translated by Morrison (two from Atovmyan to Prokofiev, and one from Prokofiev to Atovmyan) discuss logistics and commissions—in themselves they show no hint of a secret recruitment plan, much less of deception. When examining the full correspondence, however, beyond simple business discussions, we find transparent communication of terms, expectations, and financial arrangements, with Prokofiev actively engaging in the discussion and even raising his own concerns. From the very first letter, the purpose of the invitation (concerts featuring his works) and the timeframe for his visit are clearly stated.
 
 <span id="letter-1"></span>
@@ -181,10 +226,10 @@ The [three letters](#letters) translated by Morrison (two from Atovmyan to Proko
   <button class="toggle-quote-btn" onclick="toggleQuote(this)">EN / RU</button>
   <blockquote class="quote-toggle">
     <div class="quote-lang quote-ru" style="display: none;">
-      Горком композиторов Москвы поставлен в известность Н. Я. Мясковским, что Вы будете в СССР между 21 ноября и 5 декабря. Горком при черновой наметке программ своих симфонических концертов предолагал отвести Вашим произведениям один или два концерта, о чем проил сообщить Вам В. В. Держановского. (<a href="/en/resources/atovmyan-prokofiev/#1-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-1932" target="_blank">Letter 1, Atovmyan to Prokofiev, August, 1923</a>)
+      Горком композиторов Москвы поставлен в известность Н. Я. Мясковским, что Вы будете в СССР между 21 ноября и 5 декабря. Горком при черновой наметке программ своих симфонических концертов предолагал отвести Вашим произведениям один или два концерта, о чем проил сообщить Вам В. В. Держановского. (<a href="/en/resources/atovmyan-prokofiev/#1-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-1932" target="_blank">Letter 1, Atovmyan to Prokofiev, August, 1933</a>)
     </div>
     <div class="quote-lang quote-en">
- N. Ya. Myaskovsky has informed the Moscow Committee of Composers that you will be in the USSR between 21 November and 5 December. In its preliminary outline of the symphonic concert programmes, the Committee intended to dedicate one or two concerts to your works, and V. V. Derzhanovsky was asked to inform you of this. (<a href="/en/resources/atovmyan-prokofiev/#1-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-1932" target="_blank">Letter 1, Atovmyan to Prokofiev, August, 1923</a>) 
+ N. Ya. Myaskovsky has informed the Moscow Committee of Composers that you will be in the USSR between 21 November and 5 December. In its preliminary outline of the symphonic concert programmes, the Committee intended to dedicate one or two concerts to your works, and V. V. Derzhanovsky was asked to inform you of this. (<a href="/en/resources/atovmyan-prokofiev/#1-%D0%BB-%D1%82-%D0%B0%D1%82%D0%BE%D0%B2%D0%BC%D1%8C%D1%8F%D0%BD--%D1%81-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%83--%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-1932" target="_blank">Letter 1, Atovmyan to Prokofiev, August, 1933</a>) 
     </div>
   </blockquote>
 </div>
@@ -259,7 +304,7 @@ To support this view, Morrison draws on indirect references to letters and recol
 
 In *Prokofiev’s Immortalization*, an essay by Leonid Maximenkov included in the "Documents" section of [*Sergey Prokofiev and His World*](https://press.princeton.edu/books/paperback/9780691138954/sergey-prokofiev-and-his-world) (though it clearly belongs in the "Essays" section), the claim that Prokofiev was disallowed from foreign travel resurfaces.
 
-Maximenkov makes this claim in the context of a 1969 episode when Lina Prokofiev was invited to Paris for the unveiling of a memorial plaque at the apartment she had shared with Sergei between 1929 and 1955. According to Maximenkov, Prokofiev had been *nevïyezdnoy* for the last fifteen years of his life, and, because posthumous changes to travel status were supposedly unheard of, his widow faced bureaucratic hurdles in being allowed to leave the country.
+Maximenkov makes this claim in the context of a 1969 episode when Lina Prokofiev was invited to Paris for the unveiling of a memorial plaque at the apartment she had shared with Sergei between 1929 and 1935. According to Maximenkov, Prokofiev had been *nevïyezdnoy* for the last fifteen years of his life, and, because posthumous changes to travel status were supposedly unheard of, his widow faced bureaucratic hurdles in being allowed to leave the country.
 
 > Although Soviet law used a lot of gimmickry to alter the personal records and official files of deceased Soviet citizens, there are no examples of someone being declared vïyezdnoy, allowed to travel, after his or her death. (*Prokofiev’s Immortalization*, by Leonid Maximenkov, in: *Sergey Prokofiev and His World*, p. 317.)
 
@@ -295,7 +340,7 @@ Morrison omits the first sentence—“He was never refused permission to leave�
 
 Ultimately, Morrison’s use of Lina’s letters and recollections does not amount to evidence that Prokofiev was declared *nevïyezdnoy*. On the contrary, it reveals the fragility of the case: built not on documents or policy decisions, but on innuendo, omission, and retrospective storytelling.
 
-### The 1938 Passport Exchange: Routine Bureaucracy, Not Entrapment
+### The 1938 Passport Exchange: Routine Bureaucracy, Not Entrapment {#passport-exchange}
 
 As we have seen, none of the sources cited by Morrison—or by contributors under his editorial oversight—provide direct evidence that Sergei Prokofiev was officially declared *nevïyezdnoy*. The only institution that could have issued such a designation was the NKID or the Foreign Travel Commission of the Central Committee of the CPSU. Yet, the records of both bodies remain classified, and virtually nothing is publicly known about their workings. In short, the only potentially authoritative source of information on Prokofiev’s official travel status is inaccessible.
 
@@ -339,7 +384,7 @@ Was this the culmination of a long-planned effort to trap the composer in the US
   </blockquote>
 </div>
 
-* The internal passport system – reintroduced by [a joint decree of the Central Executive Committee and Sovnarkom on 27 December 1932](https://docs.cntd.ru/document/901958829) – established the Soviet internal passport as the primary identity document for citizens in urban areas.
+* The internal passport system – reintroduced by [a joint decree of the Central Executive Committee and Sovnarkom on 27 December 1932](https://docs.historyrussia.org/ru/nodes/396636-postanovlenie-tsentralnogo-ispolnitelnogo-komiteta-i-soveta-narodnyh-komissarov-ob-ustanovlenii-edinoy-pasportnoy-sistemy-po-soyuzu-ssr-i-obyazatelnoy-propiski-pasportov-27-dekabrya-1932-g-locale-nil-1917) – established the Soviet internal passport as the primary identity document for citizens in urban areas.
 
 <div class="quote">
   <button class="toggle-quote-btn" onclick="toggleQuote(this)">EN / RU</button>
@@ -357,7 +402,7 @@ Was this the culmination of a long-planned effort to trap the composer in the US
   </blockquote>
 </div>
 
-* The first standalone [Soviet Citizenship Law of 19 August 1938](https://libussr.ru/doc_ussr/ussr_4150.htm) defined who was a Soviet citizen and, crucially, declared that persons (1) living in the USSR, (2) who did not acquire their citizenship after this law, and (3) who could not prove their foreign citizenship would be considered *stateless*.
+* The first standalone [Soviet Citizenship Law of 19 August 1938](https://docs.historyrussia.org/ru/nodes/99935-zakon-o-grazhdanstve-soyuza-sovetskih-sotsialisticheskih-respublik-19-avgusta-1938-g) defined who was a Soviet citizen and, crucially, declared that persons (1) living in the USSR, (2) who did not acquire their citizenship after this law, and (3) who could not prove their foreign citizenship would be considered *stateless*.
 
 <div class="quote">
   <button class="toggle-quote-btn" onclick="toggleQuote(this)">EN / RU</button>
@@ -419,85 +464,269 @@ Below is a timeline of Prokofiev's tours through the USSR and the transcription 
 
 #### December 5, 1933 - Atovmyan to Prokofiev
 
-Sergey Sergeyevich!
-
-I’m forwarding your account statement. Unfortunately we don’t have a typewriter with a wide carriage, so we weren’t able to do it in the format you requested. But the enclosed statement is clear enough: the total income is shown above, then the total expenses, and finally the amount
-left over. Some clarification:
-
-1) The cost of the hotel (6 additional days in June), a total of 630 rubles, is included as an expense. In order to balance this sum, 500 rubles for student lessons is included as income.
-2) The 2,000 rubles you received from the Leningrad Union is not
-entered as income, because this sum, as explained, was not issued to the account for concert honoraria, but to the account for honoraria for public performances.
-3) The cost of the tickets to Negoreloe (the last time) and Leningrad is included as an expense, because these trips were not part of the plan. I have provisionally included them: if you find that they are incorrect,
-they will be written off.
-4) Also, the honorarium for your public concerts is not listed as income. This money will go to your account at the Administration.
-
-Thus 12,650 rubles, 70 kopecks are in your account at the SSK. I will report back regarding your accounts at the Administration (honoraria for public performances) and the savings bank. That’s everything financial, it seems. Please let me know if something isn’t clear.
-
-I’ll send you the six-volume Lenin edition on December 7. I delayed
-so that the package will reach you in Paris.
-
-I’m forwarding a letter I received for you. They came again from
-Tairov. They insist on signing the contract as quickly as possible. I will ask about the projects at the accepted rates: if 5,000 rubles is enough, we’ll sign the contract.
-
-I’ll write about the April and May concert plans in my next letter.
-Greetings to Lina Ivanovna. How was your trip?
-
-Atovmyan
-
-Moscow, Tverskoy Boulevard, Building 25, Apartment 10, Union of Soviet Composers
+<div class="quote">
+  <button class="toggle-quote-btn" onclick="toggleQuote(this)">EN / RU</button>
+  <div class="quote-lang quote-ru" style="display: none;">
+    <p>Сергей Сергеевич!</p>
+    <p>Посылаю Вам справку по В[ашему] счету. К сожаленью, у нас нет машинки с широкой кареткой, и поэтому сделать по той форме, по какой Вы просили, не удалось.</p>
+    <p>Но прилагаемая справка достаточно ясна: вверху весь приход, а затем весь расход и, наконец, остаток.</p>
+    <p>Несколько пояснений:</p>
+    <ol>
+    <li>В расход включена стоимость гостиницы (6 дополнительных дней в июне) на сумму 630 р. Чтобы сбалансировать эту сумму, в приход внесены 500 руб. за занятия с молодежью.</li>
+    <li>В расход не вписаны полученные Вами от Ленинградского союза 2.000 руб., так как эта сумма, как выяснилось, была выдана не в счет гонораров по концертам, а в счет гонораров по публичному исполнению.</li>
+    <li>В расход включена стоимость билетов в Негорелое (последний раз) и в Ленинград, т.к. эти поездки не входили в план. Я включил их условно если Вы найдете это неправильным, то эти расходы спишутся.</li>
+    <li>в приход не включен также гонорар за публичное исполнение Ваших концертов. Эти деньги пойдут на счет в Управление.</li>
+    </ol>
+    <p>Таким образом, по счету Вашему в ССК Вам числится 12.650 р. 70 к.</p>
+    <p>Что касается счета Вашего в Управлении (счет гонорара по публичному исполнению) и счета в сбергкассе, я сообщу Вам дополнительно.</p>
+    <p>Кажется, в отношении денежном — всё. Если есть какие либо неясности — прошу сообщить.</p>
+    <p>Шеститомник Ленина отправляем Вам 7–го декабря. Я задержал для того, чтобы эта посылка застала [Вас] в Париже.</p>
+    <p>Посылаю письмо, полученное на В[аше] имя. От Таирова были еще раз. Настаивают на скорейшем заключении договора. Выясняю проекты принимаемых ставок — если по ним 5.000 р. не мало — договор подпишем.</p>
+    <p>О концертных планах на апрель и май буду писать в следующем письме.</p>
+    <p>Привет Лине Ивановне.</p>
+    <p>Как доехали?</p>
+    <div class="signature">
+      <div class="signature-left">
+      </div>
+      <div class="signature-right">
+        Атовмьян
+      </div>
+    </div>
+    <p>Москва, Тверской бульв[ар], д. 25, к. 10. Союз советских композиторов.</p>
+  </div>
+  <div class="quote-lang quote-en">
+    <p>Sergey Sergeyevich!</p>
+    <p>I’m forwarding your account statement. Unfortunately we don’t have a typewriter with a wide carriage, so we weren’t able to do it in the format you requested.</p>
+    <p>But the enclosed statement is clear enough: the total income is shown above, then the total expenses, and finally the amount left over.</p>
+    <p>Some clarification:</p>
+    <ol>
+    <li>The cost of the hotel (6 additional days in June), a total of 630 rubles, is included as an expense. In order to balance this sum, 500 rubles for student lessons is included as income.</li>
+    <li>The 2,000 rubles you received from the Leningrad Union is not entered as income, because this sum, as explained, was not issued to the account for concert honoraria, but to the account for honoraria for public performances.</li>
+    <li>The cost of the tickets to Negoreloe (the last time) and Leningrad is included as an expense, because these trips were not part of the plan. I have provisionally included them: if you find that they are incorrect, they will be written off.</li>
+    <li>Also, the honorarium for your public concerts is not listed as income. This money will go to your account at the Administration.</li>
+    </ol>
+    <p>Thus 12,650 rubles, 70 kopecks are in your account at the SSK.</p>
+    <p>I will report back regarding your accounts at the Administration (honoraria for public performances) and the savings bank.</p>
+    <p>That’s everything financial, it seems. Please let me know if something isn’t clear.</p>
+    <p>I’ll send you the six-volume Lenin edition on December 7. I delayed so that the package will reach you in Paris.</p>
+    <p>I’m forwarding a letter I received for you. They came again from Tairov. They insist on signing the contract as quickly as possible. I will ask about the projects at the accepted rates: if 5,000 rubles is enough, we’ll sign the contract.</p>
+    <p>I’ll write about the April and May concert plans in my next letter.</p>
+    <p>Greetings to Lina Ivanovna.</p>
+    <p>How was your trip?</p>
+    <div class="signature">
+      <div class="signature-left">
+      </div>
+      <div class="signature-right">
+        Atovmyan
+      </div>
+    </div>
+    <p>Moscow, Tverskoy Boulevard, Building 25, Apartment 10, Union of Soviet Composers</p>
+  </div>
+</div>
 
 ---
 
 #### March 30, 1934 - Prokofiev to Atovmyan
 
-Levon Tadevosovich,
+### 48. С. С. Прокофьев — Л. Т. Атовмьяну — 30 марта 1934
 
-In reply to your letter of the 17th I can report that Defauw has confirmed his intention to perform Shebalin’s symphony at the end of April or in May. I asked him to let me know when this performance will take place. After that we’ll send him a telegram requesting the material be returned.
-
-I will arrive in Moscow by train from Negoreloe on the morning of
-April 8. Please meet me and reserve a room in a hotel — but if you can’t do so, take care that Gusman does. Since I’ll be bringing a lot of music it would be good to notify Negoreloe customs in advance.
-
-See you soon.
-
-Yours, SPRKFV
+<div class="quote">
+  <button class="toggle-quote-btn" onclick="toggleQuote(this)">EN / RU</button>
+  <div class="quote-lang quote-ru" style="display: none;">
+    <p>Левон Тадевосович,</p>
+    <p>в ответ на Ваше письмо от 17 с[его] м[есяца] сообщаю Вам, что Дефо подтвердил свое намерение исполнить симфонию Шебалина в конце апреля или в мае. Я просил его известить меня, как только это исполнение состоится. После этого мы пошлем ему телеграмму с просьбой вернуть материал.</p>
+    <p>В Москву я приеду 8 апреля утром, с поездом из Негорелого. Очень прошу Вас встретить меня и задержать номер в гостинице, а если Вас не будет, то позаботьтесь, чтобы Гусман сделал это. Так как я опять везу много нот, то хорошо бы предупредить об этом негорельскую таможню.</p>
+    <p>До скорого свидания.</p>
+    <div class="signature">
+      <div class="signature-left">
+      </div>
+      <div class="signature-right">
+        Ваш СПрокофьев
+      </div>
+    </div>
+  </div>
+  <div class="quote-lang quote-en">
+    <p>Levon Tadevosovich,</p>
+    <p>In reply to your letter of the 17th I can report that Defauw has confirmed his intention to perform Shebalin’s symphony at the end of April or in May. I asked him to let me know when this performance will take place. After that we’ll send him a telegram requesting the material be returned.</p>
+    <p>I will arrive in Moscow by train from Negoreloe on the morning of April 8. Please meet me and reserve a room in a hotel — but if you can’t do so, take care that Gusman does. Since I’ll be bringing a lot of music it would be good to notify Negoreloe customs in advance.</p>
+    <p>See you soon.</p>
+    <div class="signature">
+      <div class="signature-left">
+      </div>
+      <div class="signature-right">
+        Yours, SPRKFV
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
 
 #### April 9, 1934 - Atovmyan to Prokofiev
 
-Sergey Sergeyevich,
-
-I’ve sorted out the “essentials” of your finances. The totals I show are rounded off:
-
-1. The Composers’ Union: 6,000 rubles (see the enclosed statement).
-2. Your current account at the savings bank: 5,500 rubles.
-3. Your royalty account at Vserosek: 6,000 rubles.
-
-The 4,000 rubles I requested have not yet been transferred to the savings bank. The 4,000 will be transferred to the savings bank on 11/IV.
-
-Then you will have 9,500 rubles at the savings bank and 2,000 rubles in the royalty account. As of today, therefore, you have 17,500 rubles at your disposal. In addition, you still haven’t received:
-
-From GABT: 718 rubles.\
-From Lenfil: 3,000 rubles.\
-From Radio: 3,000 rubles. SSK should receive these funds (see the enclosed statement).\
-From Tairov to the Administration for the Protection of Authors’ Rights: 2,500 rubles
-
-The total not yet received:\
-3,718 rubles\
-———————\
-6,218 rubles, 26,718 rubles including the previous sum.
-
-These are all the “essentials.” The fee for the hire of Lieutenant Kizhe has not yet gone to your account. It will be disbursed to you in May.
-
-You know what will be due to you after your arrival:
-
-Ukraine: 1,500 rubles\
-Radio: 4,000 rubles [=] 5,500
-
-If you have any questions, please let me know by telephone.
-
-Greetings, Atovmyan
-
-Forgive me for not typing. We will provide a typed accounting before you leave.
+<div class="quote">
+  <button class="toggle-quote-btn" onclick="toggleQuote(this)">EN / RU</button>
+  <div class="quote-lang quote-ru" style="display: none;">
+    <p>Сергей Сергеевич.</p>
+    <p>Выяснил «основные моменты» Ваших денежных дел.</p>
+    <p>Суммы указываю округленные.</p>
+    <ol>
+      <li>За Союзом композиторов — 6.000 руб. (см. прилаг[аемую] справку)</li>
+      <li>На текущем счете в сбергкассе — 5.500 руб.</li>
+      <li>На авторском счете в Всеросек. — 6.000 руб.</li>
+    </ol>
+    <p>(они еще не перевели 4.000 на сбергкассу, о чем я их просил. Эти 4.000 р. будут переведены на сбергкассу 11/IV. Тогда на сбергкассе у Вас будет 9.500 р., а на авторском счете 2.000 р.)</p>
+    <p>Следовательно, денег, которыми Вы реально сегодня можете распорядиться, 17.500 руб.</p>
+    <p>Кроме того, еще не получены для Вас:</p>
+    <div class="letter-49-container">
+      <div class="ssk">
+        <div class="payment-origin">
+          <div class="lines">
+            <div class="line"><div>от ГАБТа —</div><div>718 р.</div></div>
+            <div class="line"><div>от Ленфила —</div><div>3.000 р.</div></div>
+            <div class="line"><div>от Радио —</div><div>3.000 р.</div></div>
+          </div>
+          <div class="curly-brace">}</div>
+        </div>
+        <div class="payment-explanation">
+          <div>Эти деньги должен получить ССК (см. прилагаемую справку)</div>
+          <div>3.718 р.</div>
+        </div>
+      </div>
+      <div class="avtorskikh-prav">
+        <div class="payment-origin">
+          Управление по ох[ране] авт[орских] прав. От Таирова —
+        </div>
+        <div class="payment-explanation">
+          2.500 р. 
+        </div>
+      </div>
+      <div class="total">
+        <div class="payment-origin">
+          Всего недополучено —
+        </div>
+        <div class="payment-explanation">
+          <hr>
+        </div>
+      </div>
+      <div class="sum">
+        <div class="payment-origin">
+        </div>
+        <div class="payment-explanation">
+          6.218 р., что с прежней суммой составляет 26.718 р.
+        </div>
+      </div>
+      <p>Вот все «основные моменты».</p>
+      <p>Еще деньги за прокат «Поручика Киже» на Ваш счет не попали. Они будут начислены Вам в мае.</p>
+      <p>Ну то, что будет причитаться за этот приезд, Вам известно:</p>
+      <div class="letter-49-container-2">
+        <div class="from">
+          <div>
+            Украина —
+          </div>
+          <div>
+            Радио —
+          </div>
+        </div>
+        <div class="to">
+          <div>
+            1.500 р.
+          </div>
+          <div>
+            4.000 p. = 5.500
+          </div>
+        </div>
+      </div>
+      <p>В случае каких либо вопросов прошу сообщить мне по телефону. Привет.</p>
+      <div class="signature">
+        <div class="signature-left">
+        </div>
+        <div class="signature-right">
+          Атовмьян
+        </div>
+      </div>
+      <p>Простите, что не успел напечатать. Печатанный [sic] отчет составим перед Вашим отъездом</p>
+    </div>
+  </div>
+  <div class="quote-lang quote-en">
+    <p>Sergey Sergeevich,</p>
+    <p>I’ve sorted out the “essentials” of your finances. The totals I show are rounded off:</p>
+    <ol>
+      <li>The Composers’ Union: 6,000 rubles (see the enclosed statement).</li>
+      <li>Your current account at the savings bank: 5,500 rubles.</li>
+      <li>Your royalty account at Vserosek: 6,000 rubles.</li>
+    </ol>
+    <p>The 4,000 rubles I requested have not yet been transferred to the savings bank. The 4,000 will be transferred to the savings bank on 11/IV.</p>
+    <p>Then you will have 9,500 rubles at the savings bank and 2,000 rubles in the royalty account. As of today, therefore, you have 17,500 rubles at your disposal. In addition, you still haven’t received:</p>
+    <div class="letter-49-container">
+      <div class="ssk">
+        <div class="payment-origin">
+          <div class="lines">
+            <div class="line"><div>From GABT:</div><div>718 rubles.</div></div>
+            <div class="line"><div>From Lenfil:</div><div>3,000 rubles.</div></div>
+            <div class="line"><div>From Radio:</div><div>3,000 rubles.</div></div>
+          </div>
+          <div class="curly-brace">}</div>
+        </div>
+        <div class="payment-explanation">
+          <div>SSK should receive these funds (see the enclosed statement).</div>
+          <div>3,718 rubles.</div>
+        </div>
+      </div>
+      <div class="avtorskikh-prav">
+        <div class="payment-origin">
+          From Tairov to the Administration for the Protection of Authors’ Rights:
+        </div>
+        <div class="payment-explanation">
+          2,500 rubles. 
+        </div>
+      </div>
+      <div class="total">
+        <div class="payment-origin">
+          The total not yet received:
+        </div>
+        <div class="payment-explanation">
+          <hr>
+        </div>
+      </div>
+      <div class="sum">
+        <div class="payment-origin">
+        </div>
+        <div class="payment-explanation">
+          6,218 rubles, 26,718 rubles including the previous sum.
+        </div>
+      </div>
+      <p>These are all the “essentials.” The fee for the hire of Lieutenant Kizhe has not yet gone to your account. It will be disbursed to you in May.</p>
+      <p>You know what will be due to you after your arrival:</p>
+      <div class="letter-49-container-2">
+        <div class="from">
+          <div>
+            Ukraine:
+          </div>
+          <div>
+            Radio:
+          </div>
+        </div>
+        <div class="to">
+          <div>
+            1,500 rubles.
+          </div>
+          <div>
+            4,000 rubles [=] 5,500
+          </div>
+        </div>
+      </div>
+      <p>If you have any questions, please let me know by telephone. Greetings,</p>
+      <div class="signature">
+        <div class="signature-left">
+        </div>
+        <div class="signature-right">
+          Atovmyan
+        </div>
+      </div>
+      <p>Forgive me for not typing. We will provide a typed accounting before you leave.</p>
+    </div>
+  </div>
+</div>
 
 <script src="/js/en-ru.js"></script>
