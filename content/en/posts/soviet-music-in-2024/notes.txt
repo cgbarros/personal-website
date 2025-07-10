@@ -1,4 +1,0 @@
-- ngram: What the y-axis shows is this: of all the bigrams contained in our sample of books written in English and published in the United States, what percentage of them are "nursery school" or "child care"? Of all the unigrams, what percentage of them are "kindergarten"? Here, you can see that use of the phrase "child care" started to rise in the late 1960s, overtaking "nursery school" around 1970 and then "kindergarten" around 1973. It peaked shortly after 1990 and has been falling steadily since.
-- dimensions.ai - https://app.dimensions.ai/analytics/publication/overview/timeline?search_mode=content&search_text=%22soviet%20music%22&search_type=kws&search_field=full_search&order=date&or_facet_for=80085&year_from=1975&year_to=2024
-- https://constellate.org/builder/?unigrams=soviet,%20musical (dfr.jstor.org) (only 10 books)
-- 
