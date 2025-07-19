@@ -5,8 +5,6 @@ languageCode = "en-us"
 [params]
 	dateFormat = '2006-01-02'
 	icon = '/favicon.ico'
-  ShowBreadCrumbs = true
-  disableStructuredData = true
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
