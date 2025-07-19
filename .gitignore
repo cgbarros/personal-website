@@ -1,2 +1,5 @@
 /public
 /resources
+/public_web
+/public_lan
+build.sh
