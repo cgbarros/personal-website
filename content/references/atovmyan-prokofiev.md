@@ -4,6 +4,7 @@ date: 2025-05-04
 draft: false
 showToc: true
 tocOpen: false
+robotsNoIndex: true
 ---
 
 <link rel="stylesheet" type="text/css" href="/css/atovmyan-prokofiev.css">

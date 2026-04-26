@@ -3,7 +3,7 @@ title: "Was Prokofiev Lured into the Soviet Union? Examining the Evidence"
 date: 2025-03-15
 lastmod: 2025-06-22
 draft: false
-tags: ["soviet music", "prokofiev", communism", "en"]
+tags: ["soviet music", "prokofiev", "communism", "en"]
 cover:
   image: "prokofiev-chess.webp"
   alt: "Picture of Sergei Prokofiev playing chess with a music sheet on the front."
@@ -527,8 +527,6 @@ Below is a timeline of Prokofiev's tours through the USSR and the transcription 
 ---
 
 #### March 30, 1934 - Prokofiev to Atovmyan
-
-### 48. С. С. Прокофьев — Л. Т. Атовмьяну — 30 марта 1934
 
 <div class="quote">
   <button class="toggle-quote-btn" onclick="toggleQuote(this)">EN / RU</button>
