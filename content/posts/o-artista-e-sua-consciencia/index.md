@@ -1,7 +1,7 @@
 ---
 title: "O Artista e Sua Consciência (Jean-Paul Sartre)"
-date: 2026-04-12
-draft: true 
+date: 2026-04-25
+draft: false
 tags: ["comunismo", "filosofia", "música soviética", "soviet music", "pt-br"]
 cover:
   image: "foto-de-jean-paul-sartre.webp"
@@ -56,42 +56,42 @@ ZHDANOV, Andrei. _Soviet Literature - The Richest in Ideas, the Most Advanced Li
 
 ## Notas
 
-[^1] René Leibowitz (1913 – 1972). Regente, compositor, teórico musical e professor. Foi defensor da Segunda Escola de Viena na França, sendo autor de diversos livros, especialmente sobre música de Schoenberg e a técnica dodecafônica. (N. T.)
+[^1]: René Leibowitz (1913 – 1972). Regente, compositor, teórico musical e professor. Foi defensor da Segunda Escola de Viena na França, sendo autor de diversos livros, especialmente sobre música de Schoenberg e a técnica dodecafônica. (N. T.)
 
-[^2] Trata-se do título utilizado para o indivíduo responsável pela preparação da música e instrução dos músicos de igreja. É uma figura presente tanto na tradição católica quanto luterana do século XVIII. (N. T.)
+[^2]: Trata-se do título utilizado para o indivíduo responsável pela preparação da música e instrução dos músicos de igreja. É uma figura presente tanto na tradição católica quanto luterana do século XVIII. (N. T.)
 
-[^3] Harold Rosenberg (1906 – 1978). Crítico de arte ativo especialmente a partir dos anos de 1950. Seu primeiro trabalho de fôlego, o artigo _The Amercian Action Painters_, de 1952, foi devotado às artes visuais, onde cunhou o termo _Action Painting_ (ou Gestualismo, em português), defendendo o expressionismo abstrato de pintores como Jackson Pollock. Escreveu ainda trabalhos sobre Gorky (1962), de Kooning (1972) e Newman (1978). (N. T.)
+[^3]: Harold Rosenberg (1906 – 1978). Crítico de arte ativo especialmente a partir dos anos de 1950. Seu primeiro trabalho de fôlego, o artigo _The Amercian Action Painters_, de 1952, foi devotado às artes visuais, onde cunhou o termo _Action Painting_ (ou Gestualismo, em português), defendendo o expressionismo abstrato de pintores como Jackson Pollock. Escreveu ainda trabalhos sobre Gorky (1962), de Kooning (1972) e Newman (1978). (N. T.)
 
-[^4] Cf. Les Temps Modernes, n. 56, p. 2151 [_D’un côté, le présent ordre social est menacé d’une manière permanente par l’extraordinaire puissance virtuelle des travailleurs; de l’autre, le fait que ce pouvoir soit entre les mains d’une catégorie anonyme, un «zéro» historique, donne à tous les faiseurs de mythes modernes la tentation de prendre la classe comme matière première de collectivités nouvelles par lesquelles la société puisse être soumise. Le prolétariat sans histoire ne peut-il être aussi facilement converti en n'importe quoi qu’en lui-même? Tenant en suspens le drame entre la révolution par la classe ouvrière pour son propre compte, et la révolution comme instrument pour d’autres, le pathétique du prolétariat domine l’histoire moderne_] 
+[^4]: Cf. Les Temps Modernes, n. 56, p. 2151 [_D’un côté, le présent ordre social est menacé d’une manière permanente par l’extraordinaire puissance virtuelle des travailleurs; de l’autre, le fait que ce pouvoir soit entre les mains d’une catégorie anonyme, un «zéro» historique, donne à tous les faiseurs de mythes modernes la tentation de prendre la classe comme matière première de collectivités nouvelles par lesquelles la société puisse être soumise. Le prolétariat sans histoire ne peut-il être aussi facilement converti en n'importe quoi qu’en lui-même? Tenant en suspens le drame entre la révolution par la classe ouvrière pour son propre compte, et la révolution comme instrument pour d’autres, le pathétique du prolétariat domine l’histoire moderne_] 
 
-[^5] O Manifesto de Praga foi um documento que resultou do Segundo Congresso Internacional de Compositores e Críticos Musicais, em 1948. Neste Congresso participaram artistas de 70 países, incluindo, do Brasil, Arnaldo Estrella e Cláudio Santoro. Seu texto indubitavelmente reflete o discurso de fechamento do Congresso do Sindicato de Compositores Soviéticos, feito por Andrei Zhdanov no mesmo ano, em que denunciou-se a produção de diversos compositores soviéticos como _formalista_. O texto foi publicado em português no mesmo ano na revista _Fundamentos_ (1948), atualmente digitalizado e disponibilizado online pela Biblioteca Nacional. O texto aparece também em Kater (2009). (N. T.)
+[^5]: O Manifesto de Praga foi um documento que resultou do Segundo Congresso Internacional de Compositores e Críticos Musicais, em 1948. Neste Congresso participaram artistas de 70 países, incluindo, do Brasil, Arnaldo Estrella e Cláudio Santoro. Seu texto indubitavelmente reflete o discurso de fechamento do Congresso do Sindicato de Compositores Soviéticos, feito por Andrei Zhdanov no mesmo ano, em que denunciou-se a produção de diversos compositores soviéticos como _formalista_. O texto foi publicado em português no mesmo ano na revista _Fundamentos_ (1948), atualmente digitalizado e disponibilizado online pela Biblioteca Nacional. O texto aparece também em Kater (2009). (N. T.)
 
-[^6] Arnold Schoenberg (1874-1951). Compositor, professor, teórico e pintor austríaco. Muitas vezes considerado um dos mais influentes compositores do século XX é considerado o líder da _Segunda Escola de Viena_, responsável pelo desenvolvimento da música dodecafônica. (N. T.)
+[^6]: Arnold Schoenberg (1874-1951). Compositor, professor, teórico e pintor austríaco. Muitas vezes considerado um dos mais influentes compositores do século XX é considerado o líder da _Segunda Escola de Viena_, responsável pelo desenvolvimento da música dodecafônica. (N. T.)
 
-[^7] _Toute création est, à l’origine, la lutte d’une forme em puissance contre une forme imitée_ (MALRAUX, 1950, p. 141) (N. T.)
+[^7]: _Toute création est, à l’origine, la lutte d’une forme em puissance contre une forme imitée_ (MALRAUX, 1950, p. 141) (N. T.)
 
-[^8] O texto é _Considerations sur les Coursiers_, de Han Yu e citado por Jean Paulhan na obra _Les Fleurs de Tarbes_. Leibowitz utiliza o texto como epígrafe do início da segunda parte – _Les Possibilités d’une musique engagée_ – de seu livro: “Assim que aparecem no mundo conhecedores de cavalos, surgem corcéis notáveis. O caso é que sempre houveram esses corcéis, mas os conhecedores são muito raros.” [Sitôt qu’il a, dans le monde des connaisseurs de chevaux, on voit apparaîte des coursiers remarquables. / C’est qu’il y a toujours eu de tels coursiers, mais les connaisseurs sont bien rares.] (N. T.)
+[^8]: O texto é _Considerations sur les Coursiers_, de Han Yu e citado por Jean Paulhan na obra _Les Fleurs de Tarbes_. Leibowitz utiliza o texto como epígrafe do início da segunda parte – _Les Possibilités d’une musique engagée_ – de seu livro: “Assim que aparecem no mundo conhecedores de cavalos, surgem corcéis notáveis. O caso é que sempre houveram esses corcéis, mas os conhecedores são muito raros.” [Sitôt qu’il a, dans le monde des connaisseurs de chevaux, on voit apparaîte des coursiers remarquables. / C’est qu’il y a toujours eu de tels coursiers, mais les connaisseurs sont bien rares.] (N. T.)
 
-[^9] Não está totalmente claro a quais artistas Sartre se refere. Possivelmente trata-se dos artistas unidos em torno de Le Centre d'Art d'Haïti, a primeira instituição do país, fundada em 1944. Segundo o website oficial da instituição, o centro esteve na origem do movimento artístico denominado ‘naïf’, que emergiu em 1945. <https://www.lecentredart.org/le-centre-dart/history-and-archives/> Acesso em: 03 dez 2019. (N. T.)
+[^9]: Não está totalmente claro a quais artistas Sartre se refere. Possivelmente trata-se dos artistas unidos em torno de Le Centre d'Art d'Haïti, a primeira instituição do país, fundada em 1944. Segundo o website oficial da instituição, o centro esteve na origem do movimento artístico denominado ‘naïf’, que emergiu em 1945. <https://www.lecentredart.org/le-centre-dart/history-and-archives/> Acesso em: 03 dez 2019. (N. T.)
 
-[^10] André Fougeron (1913 – 1998), pintor francês, nascido em Paris. Após a II Guerra Mundial, Fougeron tornou-se o pintor oficial do partido comunista francês. (N. T.)
+[^10]: André Fougeron (1913 – 1998), pintor francês, nascido em Paris. Após a II Guerra Mundial, Fougeron tornou-se o pintor oficial do partido comunista francês. (N. T.)
 
-[^11] _Taxe sur la valeur ajoutée_: imposto sobre valor acrescentado. (N. T.)
+[^11]: _Taxe sur la valeur ajoutée_: imposto sobre valor acrescentado. (N. T.)
 
-[^12] Cantata de Arnold Schoenberg para orquestra, coro masculino e narrador escrita em homenagem às vítimas do holocausto. (N. T.)
+[^12]: Cantata de Arnold Schoenberg para orquestra, coro masculino e narrador escrita em homenagem às vítimas do holocausto. (N. T.)
 
-[^13] Explico: _o artista_ se distingue, para mim, do escritor porque ele cultiva artes não significantes. Mostrei em outro lugar que os problemas da literatura são muito diferentes.
+[^13]: Explico: _o artista_ se distingue, para mim, do escritor porque ele cultiva artes não significantes. Mostrei em outro lugar que os problemas da literatura são muito diferentes.
 
-[^14] Ou Apulu de Veii. Uma estátua do deus etrusco produzida no séc. VI a.c. (N. T.)
+[^14]: Ou Apulu de Veii. Uma estátua do deus etrusco produzida no séc. VI a.c. (N. T.)
 
-[^15] Um busto do artista esculpido por Jean Antoine Houdon (1741 - 1828).  (N. T.)
+[^15]: Um busto do artista esculpido por Jean Antoine Houdon (1741 - 1828).  (N. T.)
 
-[^16] Os concertos de Brandemburgo são uma série de seis obras instrumentais compostas por Johann Sebastian Bach e apresentadas para Christian Ludwig, Marquês de Brandemburgo, em 1721. (N. T.)
+[^16]: Os concertos de Brandemburgo são uma série de seis obras instrumentais compostas por Johann Sebastian Bach e apresentadas para Christian Ludwig, Marquês de Brandemburgo, em 1721. (N. T.)
 
-[^17] Discurso de 17 de agosto de 1934, no 1º Congresso dos Escritores Soviéticos.
+[^17]: Discurso de 17 de agosto de 1934, no 1º Congresso dos Escritores Soviéticos.
 
-[^18] O discurso de Zhdanov ficou conhecido com o título _Literatura Soviética: a mais rica em ideias, a literatura mais avançada_. E está amplamente disponível online. Ver, por exemplo, Zhdanov (1977). (N. T.)
+[^18]: O discurso de Zhdanov ficou conhecido com o título _Literatura Soviética: a mais rica em ideias, a literatura mais avançada_. E está amplamente disponível online. Ver, por exemplo, Zhdanov (1977). (N. T.)
 
-[^19] _Nos sens ont un âge de développement qui ne vient pas de l’ambiance immédiate, mais d’un moment de la civilisation._ (MATISSE, 1972 p. 128) (N. T.)
+[^19]: _Nos sens ont un âge de développement qui ne vient pas de l’ambiance immédiate, mais d’un moment de la civilisation._ (MATISSE, 1972 p. 128) (N. T.)
 
-[^20] Antoine Barnave (1761 – 1793) e Honoré Mirabeau (1749 – 1791) foram importantes oradores e líderes do início da Revolução Francesa e defensores da monarquia constitucional. Lally-Tollendal (Thomas Arthur, 1702 – 1766) foi um general francês. Comandou forças francesas na Índia durante a Guerra dos Sete Anos. (N. T.)
+[^20]: Antoine Barnave (1761 – 1793) e Honoré Mirabeau (1749 – 1791) foram importantes oradores e líderes do início da Revolução Francesa e defensores da monarquia constitucional. Lally-Tollendal (Thomas Arthur, 1702 – 1766) foi um general francês. Comandou forças francesas na Índia durante a Guerra dos Sete Anos. (N. T.)
