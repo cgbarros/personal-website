@@ -2,7 +2,8 @@
 title: "Automated Egg Boiler"
 date: 2024-04-25
 draft: false
-tags: ["fun", "hacking", "weekend projects", "en"]
+tags: ["fun", "hacking", "weekend projects", "technology"]
+langs: ["en"]
 cover:
   image: "egg_boiler_ready.webp"
   alt: "The Egg Boiler"

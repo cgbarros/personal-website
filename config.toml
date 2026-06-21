@@ -8,4 +8,15 @@ languageCode = "en-us"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
+[menu]
+  [[menu.main]]
+    name = "Posts in English"
+    url = "/langs/en"
+    weight = 1
+  [[menu.main]]
+    name = "Postagens em Português"
+    url = "/langs/pt-br"
+    weight = 2
+[taxonomies]
+  tag = "tags"
+  lang = "langs"

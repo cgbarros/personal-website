@@ -2,7 +2,8 @@
 title: "O Artista e Sua Consciência (Jean-Paul Sartre)"
 date: 2026-04-25
 draft: false
-tags: ["comunismo", "filosofia", "música soviética", "soviet music", "pt-br"]
+tags: ["comunismo", "filosofia", "música soviética", "soviet music"]
+langs: ["pt-br"]
 cover:
   image: "foto-de-jean-paul-sartre.webp"
   alt: "Jean-Paul Sartre"

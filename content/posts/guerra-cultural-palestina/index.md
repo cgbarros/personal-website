@@ -2,7 +2,8 @@
 title: "A Pilhagem Cultural da Palestina"
 date: 2024-02-20T13:58:00Z
 draft: false
-tags: ["comunismo", "cultura", "pt-br"]
+tags: ["comunismo", "cultura"]
+langs: ["pt-br"]
 cover:
   image: "Taysir-2022-6086.webp"
   alt: "Memórias de uma cidade congelade em fotografias, por Taysir Batniji"

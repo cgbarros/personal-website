@@ -3,7 +3,8 @@ title: "Was Prokofiev Lured into the Soviet Union? Examining the Evidence"
 date: 2025-03-15
 lastmod: 2025-06-22
 draft: false
-tags: ["soviet music", "prokofiev", "communism", "en"]
+tags: ["soviet music", "prokofiev", "communism"]
+langs: ["en"]
 cover:
   image: "prokofiev-chess.webp"
   alt: "Picture of Sergei Prokofiev playing chess with a music sheet on the front."

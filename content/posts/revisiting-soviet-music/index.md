@@ -2,7 +2,8 @@
 title: "Revisiting My Conclusion on Soviet Music Historiography"
 date: 2025-03-09
 draft: false
-tags: ["soviet music", "socialist realism", "communism", "en"]
+tags: ["soviet music", "socialist realism", "communism"]
+langs: ["en"]
 cover:
   image: "first_ssk_congress.webp"
   alt: "Secretariat of the USSR Composer's Union"

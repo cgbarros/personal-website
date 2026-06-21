@@ -2,7 +2,8 @@
 title: "Uma introdução ao materialismo"
 date: 2024-09-14
 draft: false
-tags: ["comunismo", "filosofia", "pt-br"]
+tags: ["comunismo", "filosofia"]
+langs: ["pt-br"]
 cover:
   image: "zemlia_slushaet.webp"
   alt: "A terra escuta (Zemlia Slushaet) por Mikhail Piaskovskiy"
