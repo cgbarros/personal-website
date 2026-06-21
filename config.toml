@@ -17,6 +17,11 @@ languageCode = "en-us"
     name = "Postagens em Português"
     url = "/langs/pt-br"
     weight = 2
+  [[menu.main]]
+    identifier = "email"
+    name = "✉️ Email"
+    url = "mailto:website@caiobarros.com"
+    weight = 50
 [taxonomies]
   tag = "tags"
   lang = "langs"
