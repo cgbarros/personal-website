@@ -1,0 +1,26 @@
+title: "Caio Barros"
+theme: "PaperMod"
+languageCode: "en-us"
+params:
+  dateFormat: "2006-01-02"
+  icon: "/favicon.ico"
+  homeInfoParams:
+    Title: "Welcome!"
+    Content: "🇺🇸 I write mainly about Soviet music and communist philosophy, but sometimes also about technology and open source software.
+
+🇧🇷 Eu escrevo principalmente sobre música soviética e filosofia comunistas, mas às vezes também sobre tecnologia e software de código aberto."
+menu:
+  main:
+    - name: "Posts in English"
+      url: "/langs/en"
+      weight: 1
+    - name: "Postagens em Português"
+      url: "/langs/pt-br"
+      weight: 2
+    - identifier: "email"
+      name: "✉️ Email"
+      url: "mailto:website@caiobarros.com"
+      weight: 50
+taxonomies:
+  tag: "tags"
+  lang: "langs"
